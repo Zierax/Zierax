@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zierax or Ziad
 - 
-- 👀 I’m a multifaced specialist i have a lot of skills like fullstack, cybersecurity, graphic design ,marketing
+- 👀 I’m a multifaced specialist, I have a lot of skills like fullstack, cybersecurity, graphic design ,marketing and I can write with both hands
 - 
 - 🌱 I’m currently improve my self in these field above
 - 
@@ -8,4 +8,4 @@
 - 
 - 💞️ I’m looking to collaborate on make a new friends and get a good position in company
 - 
-- 📫 How to reach me in my gmail zs.01117875692@gmail.com
+- 📫 you can reach me in my gmail zs.01117875692@gmail.com
