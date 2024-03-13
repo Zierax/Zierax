@@ -1,0 +1,156 @@
+/* Reset browser defaults */
+body, h1, h2, h3, h4, p, ul, li, button {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+/* Body styles */
+body {
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+
+
+
+/* Header styles */
+header {
+    background-color: #2c3e50;
+    color: #fff;
+    padding: 30px 0;
+    text-align: center;
+    border-bottom: 4px solid #3498db;
+    position: relative;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 48px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+  
+nav.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.nav-links {
+    list-style-type: none;
+}
+
+.nav-links li {
+    margin-left: 30px;
+}
+
+
+
+
+
+  
+  main {
+    padding: 20px;
+    button {
+        background-color: #3498db;
+        color: #fff;
+        border: none;
+        padding: 15px 30px;
+        font-size: 20px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        border-radius: 5px;
+        outline: none;
+        display: inline-block;
+        margin-top: 20px;
+        text-transform: uppercase;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+  }
+  button {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    padding: 15px 30px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    border-radius: 5px;
+    outline: none;
+    display: inline-block;
+    margin-top: 20px;
+    text-transform: uppercase;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+  
+  h2 {
+    color: #ff6f61; /* Red heading color */
+    margin-bottom: 20px; /* Add margin bottom for spacing */
+    border-bottom: 2px solid #ff6f61; /* Red underline */
+    padding-bottom: 10px; /* Adjust padding for underline */
+  }
+  
+  ul {
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 20px;
+    font-size: 1.1rem; /* Slightly larger font size */
+  }
+  
+  footer {
+    background-color: #2c3e50;
+    color: #fff;
+    padding: 40px 0;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    margin: 20px 0;
+}
+
+/* Footer brand */
+.footer-brand h1 {
+    font-size: 24px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+/* Footer links */
+.footer-links ul {
+    display: flex;
+    justify-content: center;
+}
+
+.footer-links ul li {
+    margin: 0 15px;
+}
+
+.footer-links ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    transition: color 0.3s ease;
+}
+
+.icon {
+    border-radius: 50%;
+    overflow: hidden;
+  }
+
+.footer-links ul li a:hover {
+    color: rgb(0, 255, 242);
+}
+
+/* Copyright */
+.footer-copyright {
+    font-size: 14px;
+    color: #fff;
+}
+  

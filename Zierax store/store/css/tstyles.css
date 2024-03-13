@@ -1,0 +1,147 @@
+/* Reset default browser styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #f5f5f5;
+  }
+  
+  header {
+    background-color: #222;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1, h2 {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  main {
+    padding: 20px;
+    text-align: center; /* Center text in main section */
+  }
+  
+  /* About Section */
+  #about {
+    margin-bottom: 30px;
+  }
+  
+  /* Skills Section */
+  #skills {
+    margin-top: 50px;
+  }
+  
+  .skill-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 auto; /* Center the skill list */
+    max-width: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Center the skills horizontally */
+  }
+  
+  .skill-list li {
+    padding: 10px;
+    border: 2px solid #ddd; /* Adjust border style as needed */
+    border-radius: 8px; /* Adjust radius for desired shape */
+    margin: 5px;
+    text-align: center;
+    width: calc(33% - 10px);
+    /* Add shadows, gradients, or other enhancements here */
+    transition: background-color 0.3s ease-in-out, transform 0.2s ease-in-out; /* Add transitions for hover animations */
+  }
+  
+  .skill-list li:hover {
+    background-color: #f0f0f0; /* Adjust hover color */
+    transform: scale(1.05); /* Add hover scale animation */
+  }
+  
+  
+  /* Contact Section */
+  #contact {
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  .social-icons {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+  }
+  
+  .social-icons li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  
+  .social-icons a {
+    color: #333;
+    font-size: 24px;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .social-icons a:hover {
+    color: #007bff;
+  }
+  
+  #contact p {
+    margin-top: 20px;
+  }
+  
+  #contact a {
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  #contact a:hover {
+    color: #0056b3;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #222;
+    color: #fff;
+    padding: 40px 0;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  /* Footer links */
+  .footer-links ul {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .footer-links ul li {
+    margin: 0 15px;
+  }
+  
+  .footer-links ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    transition: color 0.3s ease;
+  }
+  
+  .footer-links ul li a:hover {
+    color: #00fff2; /* Light blue on hover */
+  }
+  
+  /* Copyright */
+  .footer-copyright {
+    font-size: 14px;
+    color: #fff;
+  }
+  
