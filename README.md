@@ -3,10 +3,10 @@
 
 ![Focus](https://img.shields.io/badge/Focus-Backend-brightgreen)
 
-<a href="https://twitter.com/Zierax_x" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="mailto:zs.01117875692@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-BB001B?style=flat&labelColor=BB001B&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="twitch.tv/Zierax_x" target="_blank"><img src="https://img.shields.io/badge/-twitch-BB001B?style=flat&labelColor=BB001B&logo=twitch&logoColor=white" alt="twitch"></a>
-<a href="discotd.com/Zierax" target="_blank"><img src="https://img.shields.io/badge/-discord-BB001B?style=flat&labelColor=BB001B&logo=discord&logoColor=white" alt="discord"></a>
+<a href="https://twitter.com/Zierax_x" target="_blank"><img src="https://img.shields.io/badge/-Twitter-33333?style=flat&logo=twitter" alt="Twitter"></a>
+<a href="mailto:zs.01117875692@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-33333?style=flat&labelColor=33333&logo=gmail" alt="Email"></a>
+<a href="twitch.tv/Zierax_x" target="_blank"><img src="https://img.shields.io/badge/-twitch-333333?style=flat&logo=twitch" alt="twitch"></a>
+<a href="discotd.com/Zierax" target="_blank"><img src="https://img.shields.io/badge/-discord-333333?style=flat&logo=discord" alt="discord"></a>
 
 <h3>  &nbsp;About Me  </h3>
 - 👨🏻‍💻 Ethical hacker and security specialist from egypt
@@ -20,7 +20,7 @@
 - 💻
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![bash](https://img.shields.io/badge/-bash-333333?style=flat&logo=bash)
+  ![bash](https://img.shields.io/badge/-bash-333333?style=flat&logo=shell)
   ![JS](https://img.shields.io/badge/-javascript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-c++-333333?style=flat&logo=c++)
