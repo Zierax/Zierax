@@ -12,8 +12,8 @@
 - 👨🏻‍💻 Ethical hacker and security specialist from egypt
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 - 💼 Working as bug hunter 
-- 🌱 Learning about ![Ethical Hacking](https://img.shields.io/badge/-hacking-333333?style=flat&logo=linux).
-- Talking 3 languages (Arabic, English, Spanish)
+- 🌱 Learning about Ethical Hacking
+- 💬 Talking 3 languages (Arabic, English, Spanish)
 
 <h3>  &nbsp;Tech Stack 🛠 </h3>
 
@@ -26,7 +26,8 @@
   ![C++](https://img.shields.io/badge/-c++-333333?style=flat&logo=c++)
   
 - 🛢
-  ![mysql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=postgresql&logoColor=316192))
+  ![Mysql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql&logoColor=316192)
+  ![Pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas&logoColor=316192)
   
 - ⚙️
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
