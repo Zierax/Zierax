@@ -1,72 +1,50 @@
-<h2 align="left">Hi 👋! My name is Ziad and I'm a security speciallist from egypt</h2>
+<h1>Hey there 👋! I'm Ziad.</h1>
 
-###
 
-<div align="left">
-  <a href="https://instagram/Zierax" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
-  </a>
-  <a href="https://twitch.tv/Zierax" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="twitch logo"  />
-  </a>
-  <a href="https://discord.com/Zierax" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="discord logo"  />
-  </a>
-  <a href="mailto:zs.01117875692@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
-  </a>
-  <a href="https://www.facebook.com/lm10.messi.amak" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="facebook logo"  />
-  </a>
-</div>
+![Focus](https://img.shields.io/badge/Focus-Backend-brightgreen)
 
-###
+<a href="https://twitter.com/Zierax_x" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="mailto:zs.01117875692@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-BB001B?style=flat&labelColor=BB001B&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="twitch.tv/Zierax_x" target="_blank"><img src="https://img.shields.io/badge/-twitch-BB001B?style=flat&labelColor=BB001B&logo=twitch&logoColor=white" alt="twitch"></a>
+<a href="discotd.com/Zierax" target="_blank"><img src="https://img.shields.io/badge/-discord-BB001B?style=flat&labelColor=BB001B&logo=discord&logoColor=white" alt="discord"></a>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" height="30" alt="networkx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-</div>
+<h3>  &nbsp;About Me  </h3>
+- 👨🏻‍💻 Ethical hacker and security specialist from egypt
+- 🤔 Exploring new technologies and developing software solutions and quick hacks.
+- 💼 Working as bug hunter 
+- 🌱 Learning about ![Ethical Hacking](https://img.shields.io/badge/-hacking-333333?style=flat&logo=linux).
+- Talking 3 languages (Arabic, English, Spanish)
+
+<h3>  &nbsp;Tech Stack 🛠 </h3>
+
+- 💻
+  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![bash](https://img.shields.io/badge/-bash-333333?style=flat&logo=bash)
+  ![JS](https://img.shields.io/badge/-javascript-333333?style=flat&logo=javascript)
+  ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
+  ![C++](https://img.shields.io/badge/-c++-333333?style=flat&logo=c++)
+  
+- 🛢
+  ![mysql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=postgresql&logoColor=316192))
+  
+- ⚙️
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+  ![Redhat](https://img.shields.io/badge/-redhat-333333?style=flat&logo=redhat)
+  ![Debian](https://img.shields.io/badge/-debian-333333?style=flat&logo=debian)
+  ![Arch](https://img.shields.io/badge/-arch-333333?style=flat&logo=archlinux)
+  ![Docker](https://img.shields.io/badge/-Dcoker-333333?style=flat&logo=docker)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  
+- 🔧
+  ![NeoVim](https://img.shields.io/badge/-NeoVim-333333?style=flat&logo=neovim)
+  ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim)
+  ![Blender](https://img.shields.io/badge/-blender-333333?style=flat&logo=blender)
+  ![Burpsuite](https://img.shields.io/badge/-burpsuite-333333?style=flat&logo=burpsuite)
+  ![Vmware](https://img.shields.io/badge/-vmware-333333?style=flat&logo=vmware)
+  ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode&logoColor=277dff)
+  
 
 ###
 
@@ -77,10 +55,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Zierax/Zierax/output/snake.svg" alt="Snake animation" />
 
 ###
 
