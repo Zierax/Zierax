@@ -5,8 +5,8 @@
 
 <a href="https://twitter.com/Zierax_x" target="_blank"><img src="https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter" alt="Twitter"></a>
 <a href="mailto:zs.01117875692@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail" alt="Email"></a>
-<a href="twitch.tv/Zierax_x" target="_blank"><img src="https://img.shields.io/badge/-twitch-333333?style=flat&logo=twitch" alt="twitch"></a>
-<a href="discotd.com/Zierax" target="_blank"><img src="https://img.shields.io/badge/-discord-333333?style=flat&logo=discord" alt="discord"></a>
+<a href="https://twitch.tv/Zierax_x" target="_blank"><img src="https://img.shields.io/badge/-twitch-333333?style=flat&logo=twitch" alt="twitch"></a>
+<a href="https://discotd.com/Zierax" target="_blank"><img src="https://img.shields.io/badge/-discord-333333?style=flat&logo=discord" alt="discord"></a>
 
 <h3>  &nbsp;About Me  </h3>
 
