@@ -3,17 +3,22 @@
 
 ![Focus](https://img.shields.io/badge/Focus-Backend-brightgreen)
 
-<a href="https://twitter.com/Zierax_x" target="_blank"><img src="https://img.shields.io/badge/-Twitter-33333?style=flat&logo=twitter" alt="Twitter"></a>
-<a href="mailto:zs.01117875692@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-33333?style=flat&labelColor=33333&logo=gmail" alt="Email"></a>
+<a href="https://twitter.com/Zierax_x" target="_blank"><img src="https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter" alt="Twitter"></a>
+<a href="mailto:zs.01117875692@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail" alt="Email"></a>
 <a href="twitch.tv/Zierax_x" target="_blank"><img src="https://img.shields.io/badge/-twitch-333333?style=flat&logo=twitch" alt="twitch"></a>
 <a href="discotd.com/Zierax" target="_blank"><img src="https://img.shields.io/badge/-discord-333333?style=flat&logo=discord" alt="discord"></a>
 
 <h3>  &nbsp;About Me  </h3>
 - 👨🏻‍💻 Ethical hacker and security specialist from egypt
+
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
-- 💼 Working as bug hunter 
+  
+- 💼 Working as bug hunter
+  
 - 🌱 Learning about Ethical Hacking
+  
 - 💬 Talking 3 languages (Arabic, English, Spanish)
+
 
 <h3>  &nbsp;Tech Stack 🛠 </h3>
 
