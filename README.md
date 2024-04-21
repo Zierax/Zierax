@@ -9,6 +9,7 @@
 <a href="discotd.com/Zierax" target="_blank"><img src="https://img.shields.io/badge/-discord-333333?style=flat&logo=discord" alt="discord"></a>
 
 <h3>  &nbsp;About Me  </h3>
+
 - 👨🏻‍💻 Ethical hacker and security specialist from egypt
 
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
