@@ -58,8 +58,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zierax&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   
-## ziad leetcode! ([profile](https://leetcode.com/Zierax))
-[![Ziad's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Zierax)](https://github.com/KnlnKS/leetcode-stats)
+## ziad's leetcode ! ([profile](https://leetcode.com/Zierax))
+[![Ziad's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Zierax&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zierax&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
