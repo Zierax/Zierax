@@ -6,7 +6,8 @@
 <a href="https://twitter.com/Zierax_x" target="_blank"><img src="https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter" alt="Twitter"></a>
 <a href="mailto:zs.01117875692@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail" alt="Email"></a>
 <a href="https://twitch.tv/Zierax_x" target="_blank"><img src="https://img.shields.io/badge/-twitch-333333?style=flat&logo=twitch" alt="twitch"></a>
-<a href="https://discotd.com/Zierax" target="_blank"><img src="https://img.shields.io/badge/-discord-333333?style=flat&logo=discord" alt="discord"></a>
+<a href="https://discord.com/Zierax" target="_blank"><img src="https://img.shields.io/badge/-discord-333333?style=flat&logo=discord" alt="discord"></a>
+<a href="https://leetcode.com/Zierax" target="_blank"><img src="https://img.shields.io/badge/-leetcode-333333?style=flat&logo=leetcode" alt="leetcode"></a>
 
 <h3>  &nbsp;About Me  </h3>
 
@@ -58,7 +59,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zierax&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   
-## ziad's leetcode ! ([profile](https://leetcode.com/Zierax))
+
 [![Ziad's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Zierax&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zierax&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
