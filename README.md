@@ -1,7 +1,7 @@
 <h1>Hey there 👋! I'm Ziad.</h1>
 
 
-![Focus](https://img.shields.io/badge/Focus-Backend-brightgreen)
+![Focus](https://img.shields.io/badge/Focus-hacking-brightgreen)
 
 <a href="https://twitter.com/Zierax_x" target="_blank"><img src="https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter" alt="Twitter"></a>
 <a href="mailto:zs.01117875692@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail" alt="Email"></a>
