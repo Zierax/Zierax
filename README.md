@@ -8,6 +8,8 @@
 <a href="https://twitch.tv/Zierax_x" target="_blank"><img src="https://img.shields.io/badge/-twitch-333333?style=flat&logo=twitch" alt="twitch"></a>
 <a href="https://discord.com/Zierax" target="_blank"><img src="https://img.shields.io/badge/-discord-333333?style=flat&logo=discord" alt="discord"></a>
 <a href="https://leetcode.com/Zierax" target="_blank"><img src="https://img.shields.io/badge/-leetcode-333333?style=flat&logo=leetcode" alt="leetcode"></a>
+<a href="https://github.com/Zierax/My-Resume" target="_blank"><img src="https://img.shields.io/badge/-My-Resume-333333?style=flat&logo=square" alt="My Resume"></a>
+
 
 <h3>  &nbsp;About Me  </h3>
 
