@@ -32,7 +32,6 @@
   ![bash](https://img.shields.io/badge/-bash-333333?style=flat&logo=shell)
   ![JS](https://img.shields.io/badge/-javascript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
-  ![C++](https://img.shields.io/badge/-c++-333333?style=flat&logo=c++)
   
 - 🛢
   ![Mysql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql&logoColor=316192)
