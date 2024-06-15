@@ -15,7 +15,7 @@
 
 - 👨🏻‍💻 Ethical hacker and security specialist from egypt
 
-- 🤔 Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 Exploring new Hacks, Cves and developing software solutions.
   
 - 💼 Working as bug hunter
   
