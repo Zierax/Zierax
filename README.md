@@ -1,6 +1,8 @@
 ###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Zierax&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div style="text-align: center;">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Zierax&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 ###
 
@@ -37,7 +39,6 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![bash](https://img.shields.io/badge/-bash-333333?style=flat&logo=shell)
   ![JS](https://img.shields.io/badge/-javascript-333333?style=flat&logo=javascript)
-  ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
   
 - 🛢
   ![Mysql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql&logoColor=316192)
@@ -55,17 +56,17 @@
 - 🔧
   ![NeoVim](https://img.shields.io/badge/-NeoVim-333333?style=flat&logo=neovim)
   ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim)
-  ![Blender](https://img.shields.io/badge/-blender-333333?style=flat&logo=blender)
-  ![Burpsuite](https://img.shields.io/badge/-burpsuite-333333?style=flat&logo=burpsuite)
-  ![Vmware](https://img.shields.io/badge/-vmware-333333?style=flat&logo=vmware)
+  ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)
+  ![Burpsuite](https://img.shields.io/badge/-Burpsuite-333333?style=flat&logo=burpsuite)
+  ![OwaspZap](https://img.shields.io/badge/-OwaspZap-333333?style=flat&logo=zap)
+  ![Vmware](https://img.shields.io/badge/-VMware-333333?style=flat&logo=vmware)
   ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode&logoColor=277dff)
+  ![Metasploit](https://img.shields.io/badge/-metasploit-333333?style=flat&logo=metasploit)
+  
   
 
 
 [![Ziad's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Zierax&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
-###
-
 
 
 <p align="center">
@@ -73,11 +74,12 @@
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zierax&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false">
 </p>
  
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Zierax/count.svg?"  />
-</div>
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Zierax/count.svg?"  />
+</div>
