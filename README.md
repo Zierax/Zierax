@@ -61,16 +61,8 @@
   ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode&logoColor=277dff)
   
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zierax&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  
 
 [![Ziad's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Zierax&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zierax&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -85,17 +77,17 @@
 ###
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sammorozov&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammorozov&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Zierax&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zierax&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false">
 </p>
  
 ###
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Zierax&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
-###
+
