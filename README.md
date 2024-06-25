@@ -66,8 +66,9 @@
   
   
 
-
-[![Ziad's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Zierax&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+<p align="center">
+  <img width="800" height="220" src="https://leetcode-stats.vercel.app/api?username=Zierax&theme=dark">
+</p>
 
 
 <p align="center">
@@ -77,10 +78,12 @@
  
 
 <p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Zierax&theme=dracula&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+
+<p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Zierax/count.svg?"  />
-</div>
