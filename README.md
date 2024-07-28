@@ -67,23 +67,7 @@
   
 
 <p align="center">
-  <img width="800" height="220" src="https://leetcode-stats.vercel.app/api?username=Zierax&theme=dark">
-</p>
-
-
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Zierax&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zierax&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false">
-</p>
- 
-
-<p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=Zierax&theme=dracula&hide_border=true&border_radius=5&card_width=800">
-</p>
-
-
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
 
