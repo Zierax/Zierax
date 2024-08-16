@@ -37,6 +37,7 @@
 
 - 💻
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
+  ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=Solidity)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![bash](https://img.shields.io/badge/-bash-333333?style=flat&logo=shell)
   ![JS](https://img.shields.io/badge/-javascript-333333?style=flat&logo=javascript)
@@ -57,6 +58,7 @@
 - 🔧
   ![NeoVim](https://img.shields.io/badge/-NeoVim-333333?style=flat&logo=neovim)
   ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim)
+  ![Remix](https://img.shields.io/badge/-Remix-333333?style=flat&logo=remix)
   ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)
   ![Burpsuite](https://img.shields.io/badge/-Burpsuite-333333?style=flat&logo=burpsuite)
   ![OwaspZap](https://img.shields.io/badge/-OwaspZap-333333?style=flat&logo=zap)
