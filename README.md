@@ -22,13 +22,13 @@
 
 <h3>  &nbsp;About Me  </h3>
 
-- 👨🏻‍💻 Ethical hacker and security specialist from egypt
+- 👨🏻‍💻 Ethical hacker and smart contracts auditor from egypt
 
 - 🤔 Exploring new Hacks, Cves and developing software solutions.
   
 - 💼 Working as bug hunter
   
-- 🌱 Learning about Ethical Hacking
+- 🌱 Learning about web3 hacking 
   
 - 💬 Talking 3 languages (Arabic, English, Spanish)
 
