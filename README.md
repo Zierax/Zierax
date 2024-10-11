@@ -18,19 +18,21 @@
 <a href="https://discord.com/Zierax" target="_blank"><img src="https://img.shields.io/badge/-discord-333333?style=flat&logo=discord" alt="discord"></a>
 <a href="https://leetcode.com/Zierax" target="_blank"><img src="https://img.shields.io/badge/-leetcode-333333?style=flat&logo=leetcode" alt="leetcode"></a>
 <a href="https://github.com/Zierax/My-Resume" target="_blank"><img src="https://img.shields.io/badge/-MyResume-333333?style=flat&logo=square" alt="My Resume"></a>
+<a href="https://linkedin.com/in/z14d" target="_blank"><img src="https://img.shields.io/badge/-discord-333333?style=flat&logo=linkedin" alt="discord"></a>
+
 
 
 <h3>  &nbsp;About Me  </h3>
 
-- 👨🏻‍💻 Ethical hacker and smart contracts auditor from egypt
+- 👨🏻‍💻 penetration tester and web3 hacker.
 
 - 🤔 Exploring new Hacks, Cves and developing software solutions.
   
-- 💼 Working as bug hunter
+- 💼 Working as bug hunter | freelancer penetration tester.
   
-- 🌱 Learning about web3 hacking 
+- 🌱 Learning about web3 hacking.
   
-- 💬 Talking 3 languages (Arabic, English, Spanish)
+- 💬 Talking 3 languages (Arabic, English, Spanish).
 
 
 <h3>  &nbsp;Tech Stack 🛠 </h3>
