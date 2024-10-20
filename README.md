@@ -19,6 +19,7 @@
 <a href="https://leetcode.com/Zierax" target="_blank"><img src="https://img.shields.io/badge/-leetcode-333333?style=flat&logo=leetcode" alt="leetcode"></a>
 <a href="https://github.com/Zierax/My-Resume" target="_blank"><img src="https://img.shields.io/badge/-MyResume-333333?style=flat&logo=square" alt="My Resume"></a>
 <a href="https://linkedin.com/in/z14d" target="_blank"><img src="https://img.shields.io/badge/-discord-333333?style=flat&logo=linkedin" alt="discord"></a>
+<a href="https://linktr.ee/Zierax" target="_blank"><img src="https://img.shields.io/badge/-linktree-333333?style=flat&logo=linktree" alt="linktree"></a>
 
 
 
