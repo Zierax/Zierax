@@ -14,13 +14,10 @@
 
 <a href="https://twitter.com/Zierax_x" target="_blank"><img src="https://img.shields.io/badge/-Twitter-333333?style=flat&logo=x" alt="Twitter"></a>
 <a href="mailto:zs.01117875692@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail" alt="Email"></a>
-<a href="https://twitch.tv/Zierax_x" target="_blank"><img src="https://img.shields.io/badge/-twitch-333333?style=flat&logo=twitch" alt="twitch"></a>
-<a href="https://discord.com/Zierax" target="_blank"><img src="https://img.shields.io/badge/-discord-333333?style=flat&logo=discord" alt="discord"></a>
-<a href="https://leetcode.com/Zierax" target="_blank"><img src="https://img.shields.io/badge/-leetcode-333333?style=flat&logo=leetcode" alt="leetcode"></a>
-<a href="https://github.com/Zierax/My-Resume" target="_blank"><img src="https://img.shields.io/badge/-MyResume-333333?style=flat&logo=square" alt="My Resume"></a>
 <a href="https://linkedin.com/in/z14d" target="_blank"><img src="https://img.shields.io/badge/-discord-333333?style=flat&logo=linkedin" alt="discord"></a>
 <a href="https://linktr.ee/Zierax" target="_blank"><img src="https://img.shields.io/badge/-linktree-333333?style=flat&logo=linktree" alt="linktree"></a>
-
+<a class="github-button" href="https://github.com/Zierax" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" aria-label="Follow @Zierax on GitHub">Follow @Zierax</a>
+<a class="github-button" href="https://github.com/sponsors/Zierax" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-heart" data-size="large" aria-label="Sponsor @Zierax on GitHub">Sponsor</a>
 
 
 <h3>  &nbsp;About Me  </h3>
