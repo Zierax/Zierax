@@ -16,8 +16,8 @@
 <a href="mailto:zs.01117875692@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail" alt="Email"></a>
 <a href="https://linkedin.com/in/z14d" target="_blank"><img src="https://img.shields.io/badge/-discord-333333?style=flat&logo=linkedin" alt="discord"></a>
 <a href="https://linktr.ee/Zierax" target="_blank"><img src="https://img.shields.io/badge/-linktree-333333?style=flat&logo=linktree" alt="linktree"></a>
-<a class="github-button" href="https://github.com/Zierax" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" aria-label="Follow @Zierax on GitHub">Follow @Zierax</a>
-<a class="github-button" href="https://github.com/sponsors/Zierax" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-heart" data-size="large" aria-label="Sponsor @Zierax on GitHub">Sponsor</a>
+<a class="github-button" href="https://github.com/sponsors/Zierax" data-color-scheme="no-preference: light_high_contrast; light: dark; dark: dark_dimmed;" data-icon="octicon-heart" data-size="large" aria-label="Sponsor @Zierax on GitHub">Sponsor</a>
+<a class="github-button" href="https://github.com/Zierax" data-color-scheme="no-preference: light_high_contrast; light: dark; dark: dark_dimmed;" data-size="large" aria-label="Follow @Zierax on GitHub">Follow @Zierax</a>
 
 
 <h3>  &nbsp;About Me  </h3>
