@@ -1,23 +1,36 @@
 ###
 
-<div style="text-align: center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zierax&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=dark">
-</div>
+
+<h1 align="center">Hey there 👋, I'm <span style="color:#4CAF50">Ziad Salah</span>!</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Cybersecurity%20Enthusiast-blue?style=for-the-badge&logo=WWW" alt="WWW Cybersecurity Enthusiast" />
+  <img src="https://img.shields.io/badge/-Bug%20Bounty%20Hunter-red?style=for-the-badge&logo=raffle" alt="Bug Bounty Hunter" />
+  <img src="https://img.shields.io/badge/-Web3%20Hacker-purple?style=for-the-badge&logo=ethereum" alt="Web3" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Zierax&theme=nord&row=1&margin-w=15" alt="GitHub Trophy" />
+  </a>
+</p>
+
 
 ###
 
 
-<h1>Hey there 👋! I'm Ziad.</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-%20Web2%20Security%20%26%20Exploit%20Development-0052cc?style=for-the-badge&logo=security&logoColor=white" alt="Focus" />
+</p>
 
 
-![Focus](https://img.shields.io/badge/Focus-hacking-brightgreen)
 
-<a href="https://twitter.com/Zierax_x" target="_blank"><img src="https://img.shields.io/badge/-Twitter-333333?style=flat&logo=x" alt="Twitter"></a>
+<a href="https://twitter.com/Zierax_x" target="_blank"><img src="https://img.shields.io/badge/-Twitter-333333?style=flat&logo=x" alt="Twitter" ></a>
 <a href="mailto:zs.01117875692@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail" alt="Email"></a>
-<a href="https://linkedin.com/in/z14d" target="_blank"><img src="https://img.shields.io/badge/-discord-333333?style=flat&logo=linkedin" alt="discord"></a>
+<a href="https://linkedin.com/in/z14d" target="_blank"><img src="https://img.shields.io/badge/-linkedin-333333?style=flat&logo=linkedin" alt="discord"></a>
 <a href="https://linktr.ee/Zierax" target="_blank"><img src="https://img.shields.io/badge/-linktree-333333?style=flat&logo=linktree" alt="linktree"></a>
-<a class="github-button" href="https://github.com/sponsors/Zierax" data-color-scheme="no-preference: light_high_contrast; light: dark; dark: dark_dimmed;" data-icon="octicon-heart" data-size="large" aria-label="Sponsor @Zierax on GitHub">Sponsor</a>
-<a class="github-button" href="https://github.com/Zierax" data-color-scheme="no-preference: light_high_contrast; light: dark; dark: dark_dimmed;" data-size="large" aria-label="Follow @Zierax on GitHub">Follow @Zierax</a>
+<img src="https://komarev.com/ghpvc/?username=Zierax&style=flat&color=blue" alt=umararfeen/> [![GitHub Ihebski](https://img.shields.io/github/followers/Zierax?label=follow%20github&style=flat-square)](https://github.com/Zierax)
+<br>
 
 
 <h3>  &nbsp;About Me  </h3>
@@ -72,4 +85,10 @@
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=Zierax&theme=dracula&hide_border=true&border_radius=5&card_width=800">
 </p>
 
+
+<p align="center">
+  <a href="https://github.com/sponsors/Zierax">
+    <img src="https://img.shields.io/badge/Sponsor-%40Zierax-red?style=for-the-badge&logo=github" alt="Sponsor @Zierax on GitHub">
+  </a>
+</p>
 
