@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Zierax&theme=nord&row=1&margin-w=15" alt="GitHub Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Zierax&theme=juicyfresh&row=1&margin-w=15" alt="GitHub Trophy" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-%20Web2%20Security%20%26%20Exploit%20Development-0052cc?style=for-the-badge&logo=security&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-%20Web3%20Security%20%26%20Exploit%20Development-0052cc?style=for-the-badge&logo=security&logoColor=white" alt="Focus" />
 </p>
 
 
