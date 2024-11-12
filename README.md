@@ -8,14 +8,12 @@
   <img src="https://img.shields.io/badge/-Web3%20Hacker-purple?style=for-the-badge&logo=ethereum" alt="Web3" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Zierax&theme=juicyfresh&row=1&margin-w=15" alt="GitHub Trophy" />
-  </a>
-</p>
+## 
 
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Zierax&theme=juicyfresh&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ###
+
 
 
 
