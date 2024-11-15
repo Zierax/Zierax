@@ -52,6 +52,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![bash](https://img.shields.io/badge/-bash-333333?style=flat&logo=shell)
   ![JS](https://img.shields.io/badge/-javascript-333333?style=flat&logo=javascript)
+  ![TS](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript)
   
 - 🛢
   ![Mysql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql&logoColor=316192)
