@@ -1,90 +1,85 @@
-###
+## Hey there! 👋 I'm **Ziad Salah**
 
-
-<h1 align="center">Hey there 👋, I'm <span style="color:#4CAF50">Ziad Salah</span>!</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Cybersecurity%20Enthusiast-blue?style=for-the-badge&logo=WWW" alt="WWW Cybersecurity Enthusiast" />
-  <img src="https://img.shields.io/badge/-Bug%20Bounty%20Hunter-red?style=for-the-badge&logo=raffle" alt="Bug Bounty Hunter" />
-  <img src="https://img.shields.io/badge/-Web3%20Hacker-purple?style=for-the-badge&logo=ethereum" alt="Web3" />
+  <img src="https://img.shields.io/badge/-Cybersecurity%20Enthusiast-blue?style=for-the-badge" alt="Cybersecurity Enthusiast" />
+  <img src="https://img.shields.io/badge/-Bug%20Bounty%20Hunter-red?style=for-the-badge" alt="Bug Bounty Hunter" />
+  <img src="https://img.shields.io/badge/-Web3%20Hacker-purple?style=for-the-badge" alt="Web3 Hacker" />
 </p>
 
-## 
+---
 
+### 🏆 GitHub Achievements
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Zierax&theme=juicyfresh&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-###
-
-
-
-
+### 🔍 Focus Areas
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-%20Web3%20Security%20%26%20Exploit%20Development-0052cc?style=for-the-badge&logo=security&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Web3%20Security%20%26%20Exploit%20Development-0052cc?style=for-the-badge" alt="Focus" />
 </p>
 
+### 📬 Connect with Me
+<a href="https://twitter.com/Zierax_x" target="_blank"><img src="https://img.shields.io/badge/Twitter-@Zierax_x-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="mailto:zs.01117875692@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://linkedin.com/in/z14d" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ziad%20Salah-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://linktr.ee/Zierax" target="_blank"><img src="https://img.shields.io/badge/Linktree-Profile-39E09B?style=flat&logo=linktree&logoColor=white" alt="Linktree"></a>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Zierax&style=flat&color=blue)
+[![GitHub Followers](https://img.shields.io/github/followers/Zierax?label=Follow%20on%20GitHub&style=flat-square)](https://github.com/Zierax)
 
-<a href="https://twitter.com/Zierax_x" target="_blank"><img src="https://img.shields.io/badge/-Twitter-333333?style=flat&logo=x" alt="Twitter" ></a>
-<a href="mailto:zs.01117875692@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail" alt="Email"></a>
-<a href="https://linkedin.com/in/z14d" target="_blank"><img src="https://img.shields.io/badge/-linkedin-333333?style=flat&logo=linkedin" alt="discord"></a>
-<a href="https://linktr.ee/Zierax" target="_blank"><img src="https://img.shields.io/badge/-linktree-333333?style=flat&logo=linktree" alt="linktree"></a>
-<img src="https://komarev.com/ghpvc/?username=Zierax&style=flat&color=blue" alt=umararfeen/> [![GitHub Ihebski](https://img.shields.io/github/followers/Zierax?label=follow%20github&style=flat-square)](https://github.com/Zierax)
-<br>
+---
 
+## 👨‍💻 About Me
+- 🛡 **Penetration Tester & Web3 Hacker**
+- 💡 Passionate about discovering vulnerabilities and security research
+- 🔍 Exploring **new hacks, CVEs, and exploit development**
+- 🌱 Currently learning more about **Web3 security**
+- 💼 Freelance **Bug Hunter & Penetration Tester**
+- 🗣 Fluent in **Arabic, English, and Spanish**
 
-<h3>  &nbsp;About Me  </h3>
+---
 
-- 👨🏻‍💻 penetration tester and web3 hacker.
+## 🛠 Tech Stack
 
-- 🤔 Exploring new Hacks, Cves and developing software solutions.
-  
-- 💼 Working as bug hunter | freelancer penetration tester.
-  
-- 🌱 Learning about web3 hacking.
-  
-- 💬 Talking 3 languages (Arabic, English, Spanish).
+### 💻 Programming Languages
+![Go](https://img.shields.io/badge/-Go-00599C?style=flat&logo=go&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-121011?style=flat&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
+### 🛢 Databases & Data Tools
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-<h3>  &nbsp;Tech Stack 🛠 </h3>
+### ⚙️ OS & Tools
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Red Hat](https://img.shields.io/badge/-Redhat-EE0000?style=flat&logo=redhat&logoColor=white)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-- 💻
-  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
-  ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=Solidity)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![bash](https://img.shields.io/badge/-bash-333333?style=flat&logo=shell)
-  ![JS](https://img.shields.io/badge/-javascript-333333?style=flat&logo=javascript)
-  ![TS](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript)
-  
-- 🛢
-  ![Mysql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql&logoColor=316192)
-  ![Pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas&logoColor=316192)
-  
-- ⚙️
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-  ![Redhat](https://img.shields.io/badge/-redhat-333333?style=flat&logo=redhat)
-  ![Debian](https://img.shields.io/badge/-debian-333333?style=flat&logo=debian)
-  ![Arch](https://img.shields.io/badge/-arch-333333?style=flat&logo=archlinux)
-  ![Docker](https://img.shields.io/badge/-Dcoker-333333?style=flat&logo=docker)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  
-- 🔧
-  ![NeoVim](https://img.shields.io/badge/-NeoVim-333333?style=flat&logo=neovim)
-  ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim)
-  ![Remix](https://img.shields.io/badge/-Remix-333333?style=flat&logo=remix)
-  ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)
-  ![Burpsuite](https://img.shields.io/badge/-Burpsuite-333333?style=flat&logo=burpsuite)
-  ![OwaspZap](https://img.shields.io/badge/-OwaspZap-333333?style=flat&logo=zap)
-  ![Vmware](https://img.shields.io/badge/-VMware-333333?style=flat&logo=vmware)
-  ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode&logoColor=277dff)
-  ![Metasploit](https://img.shields.io/badge/-metasploit-333333?style=flat&logo=metasploit)
-  
-  
+### 🔧 Development & Hacking Tools
+![NeoVim](https://img.shields.io/badge/-NeoVim-57A143?style=flat&logo=neovim&logoColor=white)
+![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white)
+![Remix](https://img.shields.io/badge/-Remix-000000?style=flat&logo=remix&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6F00?style=flat&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-7D4698?style=flat&logo=owasp&logoColor=white)
+![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-4479A1?style=flat&logo=metasploit&logoColor=white)
 
+---
+
+## 📊 GitHub Stats
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=Zierax&theme=dracula&hide_border=true&border_radius=5&card_width=800">
 </p>
 
+---
 
+## ❤️ Support Me
 <p align="center">
   <a href="https://github.com/sponsors/Zierax">
     <img src="https://img.shields.io/badge/Sponsor-%40Zierax-red?style=for-the-badge&logo=github" alt="Sponsor @Zierax on GitHub">
