@@ -18,7 +18,7 @@
 
 ### 📬 Connect with Me
 <a href="https://twitter.com/Zierax_x" target="_blank"><img src="https://img.shields.io/badge/Twitter-@Zierax_x-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="mailto:zs.01117875692@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:0xzyo@wearehackerone.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://linkedin.com/in/z14d" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ziad%20Salah-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://linktr.ee/Zierax" target="_blank"><img src="https://img.shields.io/badge/Linktree-Profile-39E09B?style=flat&logo=linktree&logoColor=white" alt="Linktree"></a>
 
