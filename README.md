@@ -11,6 +11,10 @@
 ### 🏆 GitHub Achievements
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Zierax&theme=juicyfresh&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+### THM
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3169885" style='border:none;'></iframe>
+
+
 ### 🔍 Focus Areas
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Web3%20Security%20%26%20Exploit%20Development-0052cc?style=for-the-badge" alt="Focus" />
