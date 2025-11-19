@@ -19,7 +19,7 @@
 
 ### 🔍 Focus Areas
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Web3%20Security%20%26%20Exploit%20Development-0052cc?style=for-the-badge" alt="Focus" />
+  <img width="800" height="220" src="https://img.shields.io/badge/Focus-Web3%20Security%20%26%20Exploit%20Development-0052cc?style=for-the-badge" alt="Focus" />
 </p>
 
 ### 📬 Connect with Me
