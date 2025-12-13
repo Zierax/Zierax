@@ -1,94 +1,184 @@
-## Hey there! 👋 I'm **Ziad Salah**
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Cybersecurity%20Enthusiast-blue?style=for-the-badge" alt="Cybersecurity Enthusiast" />
-  <img src="https://img.shields.io/badge/-Bug%20Bounty%20Hunter-red?style=for-the-badge" alt="Bug Bounty Hunter" />
-  <img src="https://img.shields.io/badge/-Web3%20Hacker-purple?style=for-the-badge" alt="Web3 Hacker" />
-</p>
+# ZIAD SALAH
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=60&lines=CYBERSECURITY+RESEARCHER;WEB3+SECURITY+SPECIALIST;EXPLOIT+DEVELOPER;BUG+BOUNTY+HUNTER" alt="Typing SVG" />
 
-### 🏆 GitHub Achievements
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Zierax&theme=juicyfresh&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+```ascii
+╔═══════════════════════════════════════════════════════════════════════════╗
+║  PENETRATION TESTER  |  SMART CONTRACT AUDITOR  |  VULNERABILITY HUNTER   ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
 
-### THM
-<p align="center">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Zierax.png" alt="Your Image Badge" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Zierax&style=for-the-badge&color=00F7FF&label=RECONNAISSANCE)
+[![Followers](https://img.shields.io/github/followers/Zierax?label=OPERATIVES&style=for-the-badge&color=7B3FE4)](https://github.com/Zierax)
+[![Stars](https://img.shields.io/github/stars/Zierax?label=INTEL&style=for-the-badge&color=FF0844)](https://github.com/Zierax)
 
-
-### 🔍 Focus Areas
-<p align="center">
-  <img width="800" height="220" src="https://img.shields.io/badge/Focus-Web3%20Security%20%26%20Exploit%20Development-0052cc?style=for-the-badge" alt="Focus" />
-</p>
-
-### 📬 Connect with Me
-<a href="https://twitter.com/Zierax_x" target="_blank"><img src="https://img.shields.io/badge/Twitter-@Zierax_x-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="mailto:0xzyo@wearehackerone.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://linkedin.com/in/z14d" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ziad%20Salah-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://linktr.ee/Zierax" target="_blank"><img src="https://img.shields.io/badge/Linktree-Profile-39E09B?style=flat&logo=linktree&logoColor=white" alt="Linktree"></a>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Zierax&style=flat&color=blue)
-[![GitHub Followers](https://img.shields.io/github/followers/Zierax?label=Follow%20on%20GitHub&style=flat-square)](https://github.com/Zierax)
+</div>
 
 ---
 
-## 👨‍💻 About Me
-- 🛡 **Penetration Tester & Web3 Hacker**
-- 💡 Passionate about discovering vulnerabilities and security research
-- 🔍 Exploring **new hacks, CVEs, and exploit development**
-- 🌱 Currently learning more about **Web3 security**
-- 💼 Freelance **Bug Hunter & Penetration Tester**
-- 🗣 Fluent in **Arabic, English, and Spanish**
+## MISSION BRIEF
+
+```yaml
+classification: TOP SECRET
+clearance_level: ADVANCED PERSISTENT THREAT
+target: Hack the World
+objective: |
+  Hacking Everything
+  
+specialization:
+  - Smart Contract Security Auditing
+  - Zero-Day Vulnerability Research
+  - Blockchain Exploit Development
+  - Advanced Penetration Testing
+  - ACtive directory/Windows Advanced exploitations
+status: ACTIVE OPERATIONS
+location: CAIRO, EGYPT
+languages: [ARABIC, ENGLISH, SPANISH]
+```
 
 ---
 
-## 🛠 Tech Stack
+## TECHNICAL ARSENAL
 
-### 💻 Programming Languages
-![Go](https://img.shields.io/badge/-Go-00599C?style=flat&logo=go&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-121011?style=flat&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+<div align="center">
 
-### 🛢 Databases & Data Tools
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+### OFFENSIVE PROGRAMMING
 
-### ⚙️ OS & Tools
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Red Hat](https://img.shields.io/badge/-Redhat-EE0000?style=flat&logo=redhat&logoColor=white)
-![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Go](https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=black)
+![Solidity](https://img.shields.io/badge/SOLIDITY-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=black)
 
-### 🔧 Development & Hacking Tools
-![NeoVim](https://img.shields.io/badge/-NeoVim-57A143?style=flat&logo=neovim&logoColor=white)
-![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white)
-![Remix](https://img.shields.io/badge/-Remix-000000?style=flat&logo=remix&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6F00?style=flat&logo=burpsuite&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-7D4698?style=flat&logo=owasp&logoColor=white)
-![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-4479A1?style=flat&logo=metasploit&logoColor=white)
+### OPERATING SYSTEMS
+
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch](https://img.shields.io/badge/ARCH_LINUX-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Debian](https://img.shields.io/badge/DEBIAN-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![RedHat](https://img.shields.io/badge/RED_HAT-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+
+### EXPLOITATION FRAMEWORK
+
+![Burp Suite](https://img.shields.io/badge/BURP_SUITE-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/METASPLOIT-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ghidra](https://img.shields.io/badge/GHIDRA-D2002E?style=for-the-badge&logo=ghidra&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA_PRO-00A4EF?style=for-the-badge&logo=hex-rays&logoColor=white)
+![Radare2](https://img.shields.io/badge/RADARE2-6E4C9A?style=for-the-badge&logo=radare2&logoColor=white)
+
+
+### DEVELOPMENT ENVIRONMENT
+
+![NeoVim](https://img.shields.io/badge/NEOVIM-57A143?style=for-the-badge&logo=neovim&logoColor=black)
+![Vim](https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Remix](https://img.shields.io/badge/REMIX_IDE-000000?style=for-the-badge&logo=remix&logoColor=white)
+
+### DATA INFRASTRUCTURE
+
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Zierax&theme=dracula&hide_border=true&border_radius=5&card_width=800">
-</p>
+## FIELD OPERATIONS STATISTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zierax&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&ring_color=00F7FF&fire_color=FF0844" />
+<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Zierax&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00F7FF&fire=FF0844&currStreakLabel=00F7FF&sideNums=FFFFFF&currStreakNum=00F7FF&dates=808080" />
+
+<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zierax&theme=chartreuse_dark" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zierax&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zierax&theme=chartreuse_dark&utcOffset=2" />
+
+</div>
 
 ---
 
-## ❤️ Support Me
-<p align="center">
-  <a href="https://github.com/sponsors/Zierax">
-    <img src="https://img.shields.io/badge/Sponsor-%40Zierax-red?style=for-the-badge&logo=github" alt="Sponsor @Zierax on GitHub">
-  </a>
-</p>
+## ACHIEVEMENTS & CERTIFICATIONS
 
+<div align="center">
+
+### TRYHACKME RANK
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Zierax.png" alt="TryHackMe" width="300"/>
+
+### GITHUB STATISTICS OVERVIEW
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zierax&theme=chartreuse_dark" width="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zierax&theme=chartreuse_dark" width="400"/>
+
+</div>
+
+---
+
+## SECURE COMMUNICATION CHANNELS
+
+<div align="center">
+
+```bash
+# Initialize secure connection protocols
+```
+
+[![Twitter](https://img.shields.io/badge/TWITTER-@Zierax__x-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Zierax_x)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Ziad_Salah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/z14d)
+[![Email](https://img.shields.io/badge/SECURE_EMAIL-0xzyo@wearehackerone.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0xzyo@wearehackerone.com)
+[![Linktree](https://img.shields.io/badge/INTEL_HUB-All_Channels-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Zierax)
+
+</div>
+
+---
+
+## ACTIVITY GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zierax&custom_title=OPERATIONAL%20TIMELINE&bg_color=0D1117&color=00F7FF&line=FF0844&point=FFFFFF&area_color=00F7FF&area=true&hide_border=true&height=300" width="100%"/>
+
+</div>
+
+
+---
+
+## MISSION SUPPORT
+
+<div align="center">
+
+```diff
++ Supporting security research and open-source contributions
++ Funding advanced tooling development and infrastructure
++ Enabling deeper vulnerability research capabilities
+```
+
+[![Sponsor](https://img.shields.io/badge/SUPPORT_OPERATIONS-@Zierax-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Zierax)
+
+</div>
+
+---
+
+<div align="center">
+
+```ascii
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║  "The quieter you become, the more you are able to hear."        ║
+║                                                                    ║
+║           ETHICAL HACKING  •  RESPONSIBLE DISCLOSURE              ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+```
+
+### CLASSIFIED: OFFENSIVE SECURITY RESEARCH
+
+**[RETURN TO TOP](#ziad-salah)**
+
+</div>
