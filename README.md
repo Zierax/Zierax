@@ -95,11 +95,6 @@ languages: [ARABIC, ENGLISH, SPANISH]
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zierax&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&ring_color=00F7FF&fire_color=FF0844" />
 <img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Zierax&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00F7FF&fire=FF0844&currStreakLabel=00F7FF&sideNums=FFFFFF&currStreakNum=00F7FF&dates=808080" />
 
-<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zierax&theme=chartreuse_dark" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zierax&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zierax&theme=chartreuse_dark&utcOffset=2" />
-
 </div>
 
 ---
@@ -136,15 +131,6 @@ languages: [ARABIC, ENGLISH, SPANISH]
 
 </div>
 
----
-
-## ACTIVITY GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zierax&custom_title=OPERATIONAL%20TIMELINE&bg_color=0D1117&color=00F7FF&line=FF0844&point=FFFFFF&area_color=00F7FF&area=true&hide_border=true&height=300" width="100%"/>
-
-</div>
 
 
 ---
