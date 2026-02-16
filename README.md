@@ -1,80 +1,112 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,100:6B21A8&height=200&section=header&text=Ziad%20Salah&fontSize=70&fontColor=E2D9F3&animation=twinkling&fontAlignY=55&desc=security%20researcher%20%C2%B7%20Cairo%2C%20Egypt&descSize=16&descAlignY=75&descColor=A855F7)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:3b0764,100:6B21A8&height=220&section=header&text=Ziad%20Salah&fontSize=75&fontColor=f3e8ff&animation=twinkling&fontAlignY=52&desc=security%20researcher%20%E2%80%A2%20born%202008%20%E2%80%A2%20cairo&descSize=15&descAlignY=72&descColor=a855f7)
 
 </div>
 
-<div align="center">
-
-`2008 Hacker` &nbsp;·&nbsp; breaking things before others know they're broken.
-
-</div>
-
----
+<br>
 
 <div align="center">
 
-```
-web3 security  ·  smart contracts  ·  penetration testing  ·  bug bounties
+```diff
+- the world ships vulnerable code every day
++ somebody has to find it first
 ```
 
 </div>
 
----
-
-## whoami
-
-17 years old. full-time breaking things, part-time writing about it.
-
-I hunt vulnerabilities across web apps and enterprise infrastructure. Smart contract auditing is where I am learning right now. On the offensive side, I work through Active Directory attack chains and Windows privilege escalation.
-
-> I don't wait to be old enough to do this seriously. I'm already doing it.
+<br>
 
 ---
-
-## what i've worked on
-
-| Area | Focus |
-|---|---|
-| Smart Contracts | Solidity vulnerability research, DeFi exploit analysis |
-| Web & API | OWASP Top 10, auth bypass, business logic flaws, Advanced Recon/Automation |
-| Infrastructure | Active Directory, Windows post-exploitation, lateral movement |
-| Bug Bounties | HackerOne / Immunefi — active hunter |
-
----
-
-## stack
-
-**languages** &nbsp; `Go` `Python` `Solidity` `JavaScript` `TypeScript` `Bash`
-
-**tools** &nbsp; `Burp Suite` `Metasploit` `Ghidra` `OWASP ZAP` `Docker` `IDA Pro`
-
-**systems** &nbsp; `Arch Linux` `Debian` `Red Hat`
-
----
-
-## numbers
 
 <div align="center">
 
-<!-- Stats generated via GitHub Actions → stored as SVGs in this repo → always loads -->
-<img height="160" src="profile/stats.svg" />
-&nbsp;
-<img height="160" src="profile/top-langs.svg" />
+### `./whoami`
+
+</div>
+
+```
+age          : 17
+location     : Cairo, Egypt
+status       : breaking things (ethically)
+focus        : web3 security · bug bounties · offensive sec
+currently    : learning smart contract auditing deep
+```
+
+I started before most people my age knew what a CVE was.
+I hunt vulnerabilities across web apps, blockchain protocols, and enterprise infrastructure.
+Active Directory attack chains, Windows post-exploitation, Source Codes, DeFi exploits — all on the menu.
+
+> *Built different. Started early. Not stopping.*
+
+---
+
+<div align="center">
+
+### `./targets`
+
+</div>
+
+```python
+attack_surface = {
+    "Web & API"        : ["auth bypass", "business logic", "recon automation", "OWASP Top 10"],
+    "Smart Contracts"  : ["Solidity vuln research", "DeFi exploit analysis", "EVM internals"],
+    "Infrastructure"   : ["Active Directory", "Windows privesc", "lateral movement"],
+    "Bug Bounties"     : ["HackerOne", "Immunefi"],
+}
+```
+
+---
+
+<div align="center">
+
+### `./arsenal`
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zierax&bg_color=0D0D0D&color=A855F7&line=7C3AED&point=E2D9F3&area=true&area_color=6B21A8&hide_border=true)](https://github.com/Zierax)
+**LANGUAGES**
+
+![Go](https://img.shields.io/badge/Go-0a0a0f?style=flat-square&logo=go&logoColor=a855f7)
+![Python](https://img.shields.io/badge/Python-0a0a0f?style=flat-square&logo=python&logoColor=a855f7)
+![Solidity](https://img.shields.io/badge/Solidity-0a0a0f?style=flat-square&logo=solidity&logoColor=a855f7)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0f?style=flat-square&logo=javascript&logoColor=a855f7)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0f?style=flat-square&logo=typescript&logoColor=a855f7)
+![Bash](https://img.shields.io/badge/Bash-0a0a0f?style=flat-square&logo=gnubash&logoColor=a855f7)
+
+**TOOLS**
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0a0a0f?style=flat-square&logo=burpsuite&logoColor=a855f7)
+![Metasploit](https://img.shields.io/badge/Metasploit-0a0a0f?style=flat-square&logo=metasploit&logoColor=a855f7)
+![Ghidra](https://img.shields.io/badge/Ghidra-0a0a0f?style=flat-square&logo=ghidra&logoColor=a855f7)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-0a0a0f?style=flat-square&logo=hex-rays&logoColor=a855f7)
+![Docker](https://img.shields.io/badge/Docker-0a0a0f?style=flat-square&logo=docker&logoColor=a855f7)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-0a0a0f?style=flat-square&logo=owasp&logoColor=a855f7)
+
+**OS**
+
+![Arch](https://img.shields.io/badge/Arch_Linux-0a0a0f?style=flat-square&logo=archlinux&logoColor=a855f7)
+![Debian](https://img.shields.io/badge/Debian-0a0a0f?style=flat-square&logo=debian&logoColor=a855f7)
+![RedHat](https://img.shields.io/badge/Red_Hat-0a0a0f?style=flat-square&logo=redhat&logoColor=a855f7)
 
 </div>
 
 ---
 
-## platforms
+<div align="center">
+
+### `./numbers`
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zierax&bg_color=0a0a0f&color=a855f7&line=7c3aed&point=f3e8ff&area=true&area_color=3b0764&hide_border=true&radius=6)](https://github.com/Zierax)
+
+</div>
+
+---
 
 <div align="center">
+
+### `./ranked`
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Zierax.png)](https://tryhackme.com/p/Zierax)
 
@@ -82,17 +114,14 @@ I hunt vulnerabilities across web apps and enterprise infrastructure. Smart cont
 
 ---
 
-## reach me
-
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/@Zierax__x-0D0D0D?style=for-the-badge&logo=twitter&logoColor=A855F7)](https://twitter.com/Zierax_x)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=A855F7)](https://linkedin.com/in/z14d)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=A855F7)](mailto:0xzyo@wearehackerone.com)
-&nbsp;
-[![Links](https://img.shields.io/badge/Everything_else-0D0D0D?style=for-the-badge&logo=linktree&logoColor=A855F7)](https://linktr.ee/Zierax)
+### `./connect`
+
+[![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-0a0a0f?style=for-the-badge&logo=twitter&logoColor=a855f7)](https://twitter.com/Zierax_x)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=a855f7)](https://linkedin.com/in/z14d)
+[![HackerOne](https://img.shields.io/badge/HackerOne-0a0a0f?style=for-the-badge&logo=hackerone&logoColor=a855f7)](mailto:0xzyo@wearehackerone.com)
+[![Linktree](https://img.shields.io/badge/Linktree-0a0a0f?style=for-the-badge&logo=linktree&logoColor=a855f7)](https://linktr.ee/Zierax)
 
 </div>
 
@@ -100,8 +129,10 @@ I hunt vulnerabilities across web apps and enterprise infrastructure. Smart cont
 
 <div align="center">
 
-*"the quieter you become, the more you are able to hear."*
+<sub>*"the quieter you become, the more you are able to hear."*</sub>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6B21A8,100:0D0D0D&height=80&section=footer)
+<br>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6B21A8,50:3b0764,100:0a0a0f&height=100&section=footer)
 
 </div>
