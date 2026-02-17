@@ -1,132 +1,137 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:3b0764,100:6B21A8&height=220&section=header&text=Ziad%20Salah&fontSize=75&fontColor=f3e8ff&animation=twinkling&fontAlignY=52&desc=security%20researcher%20%E2%80%A2%20born%202008%20%E2%80%A2%20cairo&descSize=15&descAlignY=72&descColor=a855f7)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:3b0764,100:6B21A8&height=240&section=header&text=Ziad%20Salah&fontSize=80&fontColor=f3e8ff&animation=twinkling&fontAlignY=50&desc=security%20researcher%20%E2%80%A2%20cairo%20%E2%80%A2%202008&descSize=14&descAlignY=68&descColor=c084fc)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ayuu4bfmz2qekifpv4i2gfmqqi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=7300ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<br/>
 
-</div>
-
-<br>
+![Profile Views](https://komarev.com/ghpvc/?username=Zierax&style=flat-square&color=6B21A8&labelColor=0a0a0f&label=eyes+on+this+page)
 
 </div>
-
-<br>
-
----
 
 <div align="center">
 
-### `./whoami`
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2800&pause=1200&color=A855F7&center=true&vCenter=true&width=480&lines=ziad%40cairo%3A~%24+cat+%2Fetc%2Fpasswd+%7C+grep+root;found+it+before+the+patch+dropped.;web3+%7C+AD+%7C+smart+contracts+%7C+whatever+you+thought+was+safe;age+is+just+metadata.)](https://git.io/typing-svg)
 </div>
 
-```
-age          : 17
-location     : Cairo, Egypt
-status       : breaking things (ethically)
-focus        : web3 security · bug bounties · offensive sec
-currently    : learning smart contract auditing deep
-```
-
-I started before most people my age knew what a CVE was.
-I hunt vulnerabilities across web apps, blockchain protocols, and enterprise infrastructure.
-Active Directory attack chains, Windows post-exploitation, Source Codes, DeFi exploits — all on the menu.
-
-> *Built different. Started early. Not stopping.*
 
 ---
 
+<br/>
+
 <div align="center">
-
-### `./targets`
-
-</div>
 
 ```python
-attack_surface = {
-    "Web & API"        : ["auth bypass", "business logic", "recon automation", "OWASP Top 10"],
-    "Smart Contracts"  : ["Solidity vuln research", "DeFi exploit analysis", "EVM internals"],
-    "Infrastructure"   : ["Active Directory", "Windows privesc", "lateral movement"],
-    "Bug Bounties"     : ["HackerOne", "Immunefi"],
-}
+class Ziad:
+    age        = 17
+    origin     = "Cairo, Egypt"
+    operating  = ["web app security", "smart contract auditing", "AD attack chains"]
+    platforms  = ["HackerOne", "Immunefi"]
+    status     = lambda self: "finding what you missed"
 ```
 
----
-
-<div align="center">
-
-### `./arsenal`
-
 </div>
 
-<div align="center">
-
-**LANGUAGES**
-
-![Go](https://img.shields.io/badge/Go-0a0a0f?style=flat-square&logo=go&logoColor=a855f7)
-![Python](https://img.shields.io/badge/Python-0a0a0f?style=flat-square&logo=python&logoColor=a855f7)
-![Solidity](https://img.shields.io/badge/Solidity-0a0a0f?style=flat-square&logo=solidity&logoColor=a855f7)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0f?style=flat-square&logo=javascript&logoColor=a855f7)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0f?style=flat-square&logo=typescript&logoColor=a855f7)
-![Bash](https://img.shields.io/badge/Bash-0a0a0f?style=flat-square&logo=gnubash&logoColor=a855f7)
-
-**TOOLS**
-
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0a0a0f?style=flat-square&logo=burpsuite&logoColor=a855f7)
-![Metasploit](https://img.shields.io/badge/Metasploit-0a0a0f?style=flat-square&logo=metasploit&logoColor=a855f7)
-![Ghidra](https://img.shields.io/badge/Ghidra-0a0a0f?style=flat-square&logo=ghidra&logoColor=a855f7)
-![IDA Pro](https://img.shields.io/badge/IDA_Pro-0a0a0f?style=flat-square&logo=hex-rays&logoColor=a855f7)
-![Docker](https://img.shields.io/badge/Docker-0a0a0f?style=flat-square&logo=docker&logoColor=a855f7)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-0a0a0f?style=flat-square&logo=owasp&logoColor=a855f7)
-
-**OS**
-
-![Arch](https://img.shields.io/badge/Arch_Linux-0a0a0f?style=flat-square&logo=archlinux&logoColor=a855f7)
-![Debian](https://img.shields.io/badge/Debian-0a0a0f?style=flat-square&logo=debian&logoColor=a855f7)
-![RedHat](https://img.shields.io/badge/Red_Hat-0a0a0f?style=flat-square&logo=redhat&logoColor=a855f7)
-
-</div>
+<br/>
 
 ---
 
+<br/>
+
 <div align="center">
 
-### `./numbers`
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zierax&bg_color=0a0a0f&color=a855f7&line=7c3aed&point=f3e8ff&area=true&area_color=3b0764&hide_border=true&radius=6)](https://github.com/Zierax)
+**what i break into**
 
 </div>
 
+```
+  web & api          →  auth flaws  ·  business logic  ·  recon pipelines
+  smart contracts    →  solidity vuln research  ·  defi protocols  ·  evm
+  infrastructure     →  active directory  ·  windows post-exploitation
+  targets            →  anything with an attack surface
+```
+
+<br/>
+
 ---
+
+<br/>
 
 <div align="center">
 
-### `./ranked`
+**languages**
+
+![Python](https://img.shields.io/badge/Python-0a0a0f?style=flat-square&logo=python&logoColor=c084fc)
+![Go](https://img.shields.io/badge/Go-0a0a0f?style=flat-square&logo=go&logoColor=c084fc)
+![Solidity](https://img.shields.io/badge/Solidity-0a0a0f?style=flat-square&logo=solidity&logoColor=c084fc)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0f?style=flat-square&logo=javascript&logoColor=c084fc)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0f?style=flat-square&logo=typescript&logoColor=c084fc)
+![Bash](https://img.shields.io/badge/Bash-0a0a0f?style=flat-square&logo=gnubash&logoColor=c084fc)
+
+<br/>
+
+**tools**
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0a0a0f?style=flat-square&logo=burpsuite&logoColor=c084fc)
+![Metasploit](https://img.shields.io/badge/Metasploit-0a0a0f?style=flat-square&logo=metasploit&logoColor=c084fc)
+![Ghidra](https://img.shields.io/badge/Ghidra-0a0a0f?style=flat-square&logo=ghidra&logoColor=c084fc)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-0a0a0f?style=flat-square&logo=hex-rays&logoColor=c084fc)
+![Docker](https://img.shields.io/badge/Docker-0a0a0f?style=flat-square&logo=docker&logoColor=c084fc)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-0a0a0f?style=flat-square&logo=owasp&logoColor=c084fc)
+
+<br/>
+
+**os**
+
+![Arch](https://img.shields.io/badge/Arch_Linux-0a0a0f?style=flat-square&logo=archlinux&logoColor=c084fc)
+![Debian](https://img.shields.io/badge/Debian-0a0a0f?style=flat-square&logo=debian&logoColor=c084fc)
+![Red Hat](https://img.shields.io/badge/Red_Hat-0a0a0f?style=flat-square&logo=redhat&logoColor=c084fc)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+**activity**
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zierax&bg_color=0a0a0f&color=c084fc&line=7c3aed&point=f3e8ff&area=true&area_color=3b0764&hide_border=true&radius=6)](https://github.com/Zierax)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+**ranked**
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Zierax.png)](https://tryhackme.com/p/Zierax)
 
 </div>
 
----
-
-<div align="center">
-
-### `./connect`
-
-[![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-0a0a0f?style=for-the-badge&logo=twitter&logoColor=a855f7)](https://twitter.com/Zierax_x)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=a855f7)](https://linkedin.com/in/z14d)
-[![HackerOne](https://img.shields.io/badge/HackerOne-0a0a0f?style=for-the-badge&logo=hackerone&logoColor=a855f7)](mailto:0xzyo@wearehackerone.com)
-[![Linktree](https://img.shields.io/badge/Linktree-0a0a0f?style=for-the-badge&logo=linktree&logoColor=a855f7)](https://linktr.ee/Zierax)
-
-</div>
+<br/>
 
 ---
 
+<br/>
+
 <div align="center">
 
-<sub>*"the quieter you become, the more you are able to hear."*</sub>
+[![Twitter](https://img.shields.io/badge/x-0a0a0f?style=flat-square&logo=twitter&logoColor=c084fc)](https://twitter.com/Zierax_x)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin-0a0a0f?style=flat-square&logo=linkedin&logoColor=c084fc)](https://linkedin.com/in/z14d)
+&nbsp;
+[![HackerOne Email](https://img.shields.io/badge/hackerone-0a0a0f?style=flat-square&logo=Hackerone&logoColor=c084fc)](mailto:0xzyo@wearehackerone.com)
+&nbsp;
+[![Linktree](https://img.shields.io/badge/linktree-0a0a0f?style=flat-square&logo=linktree&logoColor=c084fc)](https://linktr.ee/Zierax)
 
-<br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6B21A8,50:3b0764,100:0a0a0f&height=100&section=footer)
 
