@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:3b0764,100:6B21A8&height=220&section=header&text=Ziad%20Salah&fontSize=75&fontColor=f3e8ff&animation=twinkling&fontAlignY=52&desc=security%20researcher%20%E2%80%A2%20born%202008%20%E2%80%A2%20cairo&descSize=15&descAlignY=72&descColor=a855f7)
 
-> [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ayuu4bfmz2qekifpv4i2gfmqqi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ayuu4bfmz2qekifpv4i2gfmqqi&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ayuu4bfmz2qekifpv4i2gfmqqi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=7300ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
