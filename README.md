@@ -4,15 +4,15 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Zierax&style=flat-square&color=6B21A8&labelColor=0a0a0f&label=eyes+on+this+page)
+![Profile Views](https://komarev.com/ghpvc/?username=Zierax&style=flat-square&color=6B21A8&labelColor=0a0a0f&label=targets+acquired)
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2800&pause=1200&color=A855F7&center=true&vCenter=true&width=480&lines=ziad%40cairo%3A~%24+cat+%2Fetc%2Fpasswd+%7C+grep+root;found+it+before+the+patch+dropped.;web3+%7C+AD+%7C+smart+contracts+%7C+whatever+you+thought+was+safe;age+is+just+metadata.)](https://git.io/typing-svg)
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2800&pause=1200&color=A855F7&center=true&vCenter=true&width=500&lines=ziad%40cairo%3A~%24+whoami;root;found+your+0day+before+breakfast.;web3+%7C+AD+%7C+smart+contracts;whatever+you+thought+was+safe+isnt.;age+is+just+metadata.)](https://git.io/typing-svg)
 
+</div>
 
 ---
 
@@ -21,12 +21,22 @@
 <div align="center">
 
 ```python
-class Ziad:
-    age        = 17
-    origin     = "Cairo, Egypt"
-    operating  = ["web app security", "smart contract auditing", "AD attack chains"]
-    platforms  = ["HackerOne", "Immunefi"]
-    status     = lambda self: "finding what you missed"
+import sys
+from core import hack_the_planet
+
+class Ziad(ThreatActor):
+    def __init__(self):
+        self.age = 17 # Yes, actually.
+        self.base = "Cairo, Egypt"
+        self.power_level = 9000
+        self.hunting_grounds = ["HackerOne", "Immunefi", "Your poorly configured servers"]
+        
+    def routine(self):
+        while True:
+            bypass_waf()
+            drain_smart_contracts(legally=True)
+            own_active_directory()
+            sleep(0) # Sleep is for the weak
 ```
 
 </div>
@@ -39,15 +49,15 @@ class Ziad:
 
 <div align="center">
 
-**what i break into**
+### `[+] Attack Surface`
 
 </div>
 
-```
-  web & api          →  auth flaws  ·  business logic  ·  recon pipelines
-  smart contracts    →  solidity vuln research  ·  defi protocols  ·  evm
-  infrastructure     →  active directory  ·  windows post-exploitation
-  targets            →  anything with an attack surface
+```text
+  [!] Web & API          →  Shattering auth · Business logic abuse · Bypassing what devs forgot
+  [!] Smart Contracts    →  Reading Solidity like a book · Saving DeFi from itself · EVM
+  [!] Infrastructure     →  Owning the Domain Controller before you finish your coffee
+  [*] Target Scope       →  If it compiles, it can be broken.
 ```
 
 <br/>
@@ -57,6 +67,10 @@ class Ziad:
 <br/>
 
 <div align="center">
+
+### `[+] Weapons of Choice`
+
+<br/>
 
 **languages**
 
@@ -69,7 +83,7 @@ class Ziad:
 
 <br/>
 
-**tools**
+**arsenal**
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0a0a0f?style=flat-square&logo=burpsuite&logoColor=c084fc)
 ![Metasploit](https://img.shields.io/badge/Metasploit-0a0a0f?style=flat-square&logo=metasploit&logoColor=c084fc)
@@ -80,7 +94,7 @@ class Ziad:
 
 <br/>
 
-**os**
+**battlegrounds**
 
 ![Arch](https://img.shields.io/badge/Arch_Linux-0a0a0f?style=flat-square&logo=archlinux&logoColor=c084fc)
 ![Debian](https://img.shields.io/badge/Debian-0a0a0f?style=flat-square&logo=debian&logoColor=c084fc)
@@ -96,7 +110,7 @@ class Ziad:
 
 <div align="center">
 
-**activity**
+### `[~] Shell History`
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zierax&bg_color=0a0a0f&color=c084fc&line=7c3aed&point=f3e8ff&area=true&area_color=3b0764&hide_border=true&radius=6)](https://github.com/Zierax)
 
@@ -110,7 +124,7 @@ class Ziad:
 
 <div align="center">
 
-**ranked**
+### `[#] Proof of Work`
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Zierax.png)](https://tryhackme.com/p/Zierax)
 
@@ -123,6 +137,8 @@ class Ziad:
 <br/>
 
 <div align="center">
+
+### `[!] Establish Connection`
 
 [![Twitter](https://img.shields.io/badge/x-0a0a0f?style=flat-square&logo=twitter&logoColor=c084fc)](https://twitter.com/Zierax_x)
 &nbsp;
