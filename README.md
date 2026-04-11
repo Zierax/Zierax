@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=Zierax&style=flat-square&color=A855F7&labelColor=0a0a0f&label=Views" alt="Views" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2400&pause=1000&color=d8b4fe&center=true&vCenter=true&width=550&lines=ziad@cairo:~%23+whoami;root;logic+%3E+luck;latency:+34ns;SOTA:+broken;Truthimatics+In-Progress;age+is+just+metadata." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2400&pause=1000&color=d8b4fe&center=true&vCenter=true&width=550&lines=ziad@cairo:~%23+whoami;root;logic+%3E+luck;latency:+34ns;SOTA:+broken;Truthimatics+In-Progress;age+is+just+metadata.;I+Hate+chemistry;I+Love+COFFEE+<3" alt="Typing SVG" />
 
 </div>
 
