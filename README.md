@@ -40,7 +40,7 @@
 
 ### NEXT: The Axiom Expansion (In-Development)
 * **Axiom-Qsecurity:** Evolution of Planck-99 into Quantum-Kernel SVM for 100% deterministic behavior isolation. [Under-Stress-Test]
-* **Axiom-Zspace:** Large-scale signal deconvolution engine designed for TESS data processing. [Under-Stress-Test]
+* **Axiom-Zspace:** Large-scale signal deconvolution engine designed for TESS data processing. [Under-Stress-Test] [Benchmarks](https://github.com/Zierax/Axiom-Zspace)
 * **Axiom-Solar:** Physics-invariant analysis for identifying exoplanet transits within high-noise datasets. [Under-Stress-Test]
 * **Axiom-Math:** Hallucination-free mathematical reasoning engine via formal logic invariants. [Under-Stress-Test]
 * **Corex (Axiom-Kernel):** A Secure-by-Design micro-kernel built on the intersection of logical and physical laws. [Under-Development]
