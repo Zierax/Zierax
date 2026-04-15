@@ -23,11 +23,12 @@
 
 | Project | Objective | Performance Metric | Technical Proof |
 | :--- | :--- | :--- | :--- |
-| **Planck-99** | Linux Malware Detection | **30-73ns** Latency | [Benchmarks](https://github.com/Division-36/Planck-99_PublicBenchmarks) |
-| **Axiom-WAF** | Deterministic Web Defense | **99.33%** Accuracy | [Benchmarks](https://github.com/Division-36/AxiomWAF-Brain_PublicBenchmarks) |
-| **SYRTH** | Vulnerability Detection | **4.1K/s** Throughput | [Full Report](https://github.com/Division-36/Syrth_PublicBenchmark) |
-| **Axiom-Vesuvius** | Ancient Ink Detection | **91.83%** F1-Score | [Repository](https://github.com/Zierax/Axiom-Vesuvius/) |
-| **Axiom-Astro** | Cosmic Signal Audit | **100%** Recall/Prec | [Audit Report](https://github.com/Zierax/Axiom-Astrophysics) |
+| **Axiom-Qsecurity** | Quantum-Kernel SVM Evolution For Planck-99 | **100% Recall** (Unseen) | [v1.0 Production](https://github.com/Zierax/Axiom-Qsecurity) |
+| **Planck-99** | Linux Kernel Malware Audit | **30-73ns** Latency | [Benchmarks](https://github.com/Division-36/Planck-99_PublicBenchmarks) |
+| **Axiom-Astrophysics** | Cosmic Signal Deconvolution | **100%** Precision | [Audit Report](https://github.com/Zierax/Axiom-Astrophysics) |
+| **Axiom-WAF** | Deterministic Web firewall Defense | **99.33%** Accuracy | [Benchmarks](https://github.com/Division-36/AxiomWAF-Brain_PublicBenchmarks) |
+| **Axiom-Vesuvius** | Herculaneum Papyrus Recovery | **91.83%** F1-Score | [Repository](https://github.com/Zierax/Axiom-Vesuvius/) |
+| **SYRTH** | Static Vulnerability Analysis | **4.1K records/s** | [Full Report](https://github.com/Division-36/Syrth_PublicBenchmark) |
 
 ---
 
@@ -39,10 +40,11 @@
 
 * **Axiom-LRM (Large Reasoning Model):** Shifting AI from statistical guessing to **Pure Logical Inference**. If laws exist, AGI is just a matter of execution. **Status: Alpha.**
 * **Axiom-Zspace:** Large-scale signal deconvolution. **Milestone:** Discovered 33 new exoplanets in 45 minutes on consumer hardware. [Benchmarks](https://github.com/Zierax/Axiom-Zspace)
-* **Axiom-Qsecurity:** Quantum-Kernel SVM evolution of Planck-99. **Result:** 100% Accuracy on unseen datasets in first pilots.
 * **Axiom-Math:** Hallucination-free mathematical reasoning via formal logic invariants.
 * **Corex (Axiom-Kernel):** A Secure-by-Design micro-kernel built on the intersection of logical and physical laws.
 * **Axiom-02:** Advanced affective reasoning (Evolution of Phonosemantics).
+* **Axiom-Dinosaur:** Reconstructing prehistoric biological structures via **Deterministic Morphological Mapping**. Scaling Axiom-Logic to reverse-engineer evolutionary data gaps. **Status: Alpha.**
+* **Axiom-Bio:** Protein folding and genomic sequence deconvolution. Targeted at **Zero-Hallucination protein synthesis** by treating amino acids as logical variables. **Status: Alpha.**
 
 ---
 
