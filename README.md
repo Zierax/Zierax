@@ -18,7 +18,7 @@
 
 ---
 
-### 🟢 High-Frequency Logic (SOTA Status)
+### High-Frequency Logic (SOTA Status)
 *Core engines optimized for sub-microsecond inference and deterministic behavior.*
 
 | Project | Objective | Performance Metric | Technical Proof |
@@ -31,7 +31,7 @@
 
 ---
 
-### 🛰️ NEXT: The Axiom Expansion (AGI Frontier)
+### NEXT: The Axiom Expansion (AGI Frontier)
 *R&D Phase: Shifting AI from probabilistic "next-word" guessing to pure Logical Inference.*
 
 > [!CAUTION]
