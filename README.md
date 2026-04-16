@@ -48,6 +48,24 @@
 
 ---
 
+### Cognitive & Neurological Research | The Science of Axiom
+
+While others study the "Box," I dismantled it. My research spans the intersection of formal logic, cognitive musicology, and human-AI neuro-interaction.
+
+| Framework | Status | Domain | Impact |
+| :--- | :--- | :--- | :--- |
+| [**PTRR Framework**](https://doi.org/10.5281/zenodo.18873773) | **IEEE AIITA 2026** Accepted Will not be published | Metacognitive AI Audit | Shifting finding profiles from Low to **Critical-Dominant**. |
+| [**DVF Framework**](https://doi.org/10.5281/zenodo.18751159) | **Neurology Research** Invited | Neural Music Perception | Redefining AI-Vitality via **Structural Activation Potential**. |
+| **Axiom-Logic** | **Production Phase** | Deterministic Reasoning | **Blackbox Elimination.** Pure logical inference @ 34ns. |
+
+### Peer Review Status:
+* **Scientific Reports (Nature Portfolio):** PTRR v4.0 currently under review by **9 experts**.
+* **Neurology & Neurological Research:** Invitation accepted for "Non-Living Intelligence" publication.
+
+> **Note to Observers:** The time spent "checking" my work is time lost in the race. I am already two versions ahead of the peer-reviewed reality.
+
+---
+
 <div align="right">
   <code><b>KERNEL_LOG:</b> 2026.04.15.12:21</code> | <code><b>LOC:</b> CAIRO_CORE</code> | <code><b>STATUS:</b> BORED_AS_HELL</code>
 </div>
