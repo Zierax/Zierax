@@ -23,11 +23,11 @@
 
 | Project | Objective | Performance Metric | Technical Proof |
 | :--- | :--- | :--- | :--- |
-| **Axiom-Qsecurity** | Quantum-Kernel SVM Evolution For Planck-99 | **100% Recall** (Unseen) | [v1.0 Production](https://github.com/Zierax/Axiom-Qsecurity) |
+| **Axiom-Qsecurity** | Quantum-Kernel SVM Evolution For Planck-99 | **100% Recall** (Unseen) | [v1 Benchmarks](https://github.com/Zierax/Axiom-Qsecurity) |
 | **Planck-99** | Linux Kernel Malware Audit | **30-73ns** Latency, **96% accuracy** (Unseen) | [Benchmarks](https://github.com/Division-36/Planck-99_PublicBenchmarks) |
-| **Axiom-Astrophysics** | Cosmic Signal Deconvolution | **100%** P/R/F1 (Unseen) | [Audit Report](https://github.com/Zierax/Axiom-Astrophysics) |
+| **Axiom-Astrophysics** | Cosmic Signal Deconvolution | **100%** P/R/F1 (Unseen) | [Audit Report / Sourcecode](https://github.com/Zierax/Axiom-Astrophysics) |
 | **Axiom-WAF** | Deterministic Web firewall Defense | **99.33%** Accuracy (Unseen) (0.6% training 99.4% testing) | [Benchmarks](https://github.com/Division-36/AxiomWAF-Brain_PublicBenchmarks) |
-| **Axiom-Vesuvius** | Herculaneum Papyrus Recovery | **91.83%** F1-Score (Math/Physics-Driven) | [Repository](https://github.com/Zierax/Axiom-Vesuvius/) |
+| **Axiom-Vesuvius** | Herculaneum Papyrus Recovery | **91.83%** F1-Score (Math/Physics-Driven) | [Benchmarks](https://github.com/Zierax/Axiom-Vesuvius/) |
 | **SYRTH** | Static Vulnerability Analysis | **4.1K records/s** **99% Accuracy** | [Full Report](https://github.com/Division-36/Syrth_PublicBenchmark) |
 | **Axiom-Sigint** | Interstellar Signal Intelligence System (Advanced A-Astrophysics) | **New physics Found By The Model**  | **[ACCESS_RESTRICTED]** |
 
@@ -42,10 +42,10 @@
 
 * **Axiom-LRM (Large Reasoning Model):** Shifting AI from statistical guessing to **Pure Logical Inference**. If laws exist, AGI is just a matter of execution. [AGI??](https://github.com/Zierax/Axiom-LRM)
 * **Axiom-Zspace:** Large-scale signal deconvolution. **Milestone:** Discovered 33 new exoplanets in 45 minutes on consumer hardware. [Benchmarks](https://github.com/Zierax/Axiom-Zspace)
-* **Ecdysis-Logic:** An Adversarial Research Ecosystem designed to outpace and deceive ML-based EDRs through Deterministic Mimicry. **Status: StressTests**
+* **Axiom-02:** Advanced affective emotional responsage (Evolution of Phonosemantics). **Status: StressTests** [Benchmarks / Sourcecode](https://github.com/Zierax/Axiom-02)
+* **Ecdysis:** An Adversarial Ecosystem designed to outpace and deceive ML-based EDRs through Deterministic Mimicry. **Status: StressTests**
 * **Axiom-Ice:** A Logic-based generative engine that replaces byte-storage with law-based representation. **Status: StressTests**
 * **Axiom-Math:** Hallucination-free mathematical reasoning via formal logic invariants. **Status: StressTests to Break** `co vs co-np`
-* **Axiom-02:** Advanced affective reasoning (Evolution of Phonosemantics). **Status: Under-Development**
 * **Corex (Axiom-Kernel):** A Secure-by-Design micro-kernel built on the intersection of logical and physical laws. **Status: Alpha**
 * **Axiom-Dinosaur:** Reconstructing prehistoric biological structures via **Deterministic Morphological Mapping**. Scaling Axiom-Logic to reverse-engineer evolutionary data gaps. **Status: Alpha.**
 * **Axiom-Bio:** Protein folding and genomic sequence deconvolution. Targeted at **Zero-Hallucination protein synthesis** by treating amino acids as logical variables. **Status: Alpha.**
@@ -77,5 +77,5 @@ While others study the "Box," I dismantled it. My research spans the intersectio
 <br>
   
 <div align="center">
-  <code><b>KERNEL_LOG:</b> 2026.04.15.12:21</code> | <code><b>LOC:</b> CAIRO_CORE</code> | <code><b>STATUS:</b> BORED_AS_HELL</code>
+  <code><b>KERNEL_LOG:</b> 2026.04.16.10:37</code> | <code><b>LOC:</b> CAIRO_CORE</code> | <code><b>STATUS:</b> BORED_AS_HELL</code>
 </div>
