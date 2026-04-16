@@ -48,7 +48,7 @@
 
 ---
 
-### Cognitive & Neurological Research | The Science of Axiom
+### Research | The Science Behind Axiom
 
 While others study the "Box," I dismantled it. My research spans the intersection of formal logic, cognitive musicology, and human-AI neuro-interaction.
 
@@ -60,12 +60,17 @@ While others study the "Box," I dismantled it. My research spans the intersectio
 
 ### Peer Review Status:
 * **Scientific Reports (Nature Portfolio):** PTRR v4.0 currently under review by **9 experts**.
-* **Neurology & Neurological Research:** Invitation accepted for "Non-Living Intelligence" publication.
-
-> **Note to Observers:** The time spent "checking" my work is time lost in the race. I am already two versions ahead of the peer-reviewed reality.
-
+* **Neurology & Neurological Research:** Invitation accepted for "Non-Living Intelligence" publication. 
 ---
 
-<div align="right">
+<p align="center">
+<a href="https://github.com/Zierax">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Zierax&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=daf7dc&icon_color=ffffff&bg_color=151515" alt="Ziad Salah | Stats" />
+</a> <a href="https://github.com/Zierax">
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zierax&hide=html,css,tsql&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=daf7dc&icon_color=ffffff&bg_color=151515" alt="Ziad Salah | Top Languages" />
+</a>
+<br>
+  
+<div align="center">
   <code><b>KERNEL_LOG:</b> 2026.04.15.12:21</code> | <code><b>LOC:</b> CAIRO_CORE</code> | <code><b>STATUS:</b> BORED_AS_HELL</code>
 </div>
