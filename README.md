@@ -19,16 +19,18 @@
 ---
 
 ### High-Frequency Logic (SOTA Status)
-*Core engines optimized for sub-microsecond inference and deterministic behavior.*
+*Core engines optimized for sub-nano/microsecond inference and deterministic behavior.*
 
 | Project | Objective | Performance Metric | Technical Proof |
 | :--- | :--- | :--- | :--- |
 | **Axiom-Qsecurity** | Quantum-Kernel SVM Evolution For Planck-99 | **100% Recall** (Unseen) | [v1.0 Production](https://github.com/Zierax/Axiom-Qsecurity) |
-| **Planck-99** | Linux Kernel Malware Audit | **30-73ns** Latency | [Benchmarks](https://github.com/Division-36/Planck-99_PublicBenchmarks) |
-| **Axiom-Astrophysics** | Cosmic Signal Deconvolution | **100%** Precision | [Audit Report](https://github.com/Zierax/Axiom-Astrophysics) |
-| **Axiom-WAF** | Deterministic Web firewall Defense | **99.33%** Accuracy | [Benchmarks](https://github.com/Division-36/AxiomWAF-Brain_PublicBenchmarks) |
-| **Axiom-Vesuvius** | Herculaneum Papyrus Recovery | **91.83%** F1-Score | [Repository](https://github.com/Zierax/Axiom-Vesuvius/) |
-| **SYRTH** | Static Vulnerability Analysis | **4.1K records/s** | [Full Report](https://github.com/Division-36/Syrth_PublicBenchmark) |
+| **Planck-99** | Linux Kernel Malware Audit | **30-73ns** Latency, **96% accuracy** (Unseen) | [Benchmarks](https://github.com/Division-36/Planck-99_PublicBenchmarks) |
+| **Axiom-Astrophysics** | Cosmic Signal Deconvolution | **100%** P/R/F1 (Unseen) | [Audit Report](https://github.com/Zierax/Axiom-Astrophysics) |
+| **Axiom-WAF** | Deterministic Web firewall Defense | **99.33%** Accuracy (Unseen) (0.6% training 99.4% testing) | [Benchmarks](https://github.com/Division-36/AxiomWAF-Brain_PublicBenchmarks) |
+| **Axiom-Vesuvius** | Herculaneum Papyrus Recovery | **91.83%** F1-Score (Math/Physics-Driven) | [Repository](https://github.com/Zierax/Axiom-Vesuvius/) |
+| **SYRTH** | Static Vulnerability Analysis | **4.1K records/s** **99% Accuracy** | [Full Report](https://github.com/Division-36/Syrth_PublicBenchmark) |
+| **Axiom-Sigint** | Interstellar Signal Intelligence System (Advanced A-Astrophysics) | **New physics Found By The Model**  | **[ACCESS_RESTRICTED]** |
+
 
 ---
 
@@ -38,11 +40,13 @@
 > [!CAUTION]
 > **Deterministic AGI (In-Development):** Scaling the Axiom-LRM to eliminate the "Possibility" factor. Intelligence is a law, not a dice roll.
 
-* **Axiom-LRM (Large Reasoning Model):** Shifting AI from statistical guessing to **Pure Logical Inference**. If laws exist, AGI is just a matter of execution. **Status: Alpha.**
+* **Axiom-LRM (Large Reasoning Model):** Shifting AI from statistical guessing to **Pure Logical Inference**. If laws exist, AGI is just a matter of execution. [AGI??](https://github.com/Zierax/Axiom-LRM)
 * **Axiom-Zspace:** Large-scale signal deconvolution. **Milestone:** Discovered 33 new exoplanets in 45 minutes on consumer hardware. [Benchmarks](https://github.com/Zierax/Axiom-Zspace)
-* **Axiom-Math:** Hallucination-free mathematical reasoning via formal logic invariants.
-* **Corex (Axiom-Kernel):** A Secure-by-Design micro-kernel built on the intersection of logical and physical laws.
-* **Axiom-02:** Advanced affective reasoning (Evolution of Phonosemantics).
+* **Ecdysis-Logic:** An Adversarial Research Ecosystem designed to outpace and deceive ML-based EDRs through Deterministic Mimicry. **Status: StressTests**
+* **Axiom-Ice:** A Logic-based generative engine that replaces byte-storage with law-based representation. **Status: StressTests**
+* **Axiom-Math:** Hallucination-free mathematical reasoning via formal logic invariants. **Status: StressTests to Break** `co vs co-np`
+* **Axiom-02:** Advanced affective reasoning (Evolution of Phonosemantics). **Status: Under-Development**
+* **Corex (Axiom-Kernel):** A Secure-by-Design micro-kernel built on the intersection of logical and physical laws. **Status: Alpha**
 * **Axiom-Dinosaur:** Reconstructing prehistoric biological structures via **Deterministic Morphological Mapping**. Scaling Axiom-Logic to reverse-engineer evolutionary data gaps. **Status: Alpha.**
 * **Axiom-Bio:** Protein folding and genomic sequence deconvolution. Targeted at **Zero-Hallucination protein synthesis** by treating amino acids as logical variables. **Status: Alpha.**
 
@@ -56,11 +60,12 @@ While others study the "Box," I dismantled it. My research spans the intersectio
 | :--- | :--- | :--- | :--- |
 | [**PTRR Framework**](https://doi.org/10.5281/zenodo.18873773) | **IEEE AIITA 2026** Accepted Will not be published | Metacognitive AI Audit | Shifting finding profiles from Low to **Critical-Dominant**. |
 | [**DVF Framework**](https://doi.org/10.5281/zenodo.18751159) | **Neurology Research** Invited | Neural Music Perception | Redefining AI-Vitality via **Structural Activation Potential**. |
-| **Axiom-Logic** | **Production Phase** | Deterministic Reasoning | **Blackbox Elimination.** Pure logical inference @ 34ns. |
+| **Truthimatics** | **Pre-Theory** | Deterministic Logic | **Proprietary Deterministic Logic Framework.** |
+| **Axiom-Logic** | **Production Phase** | Deterministic Reasoning | **Blackbox Elimination.** Pure logical inference. |
+
 
 ### Peer Review Status:
 * **Scientific Reports (Nature Portfolio):** PTRR v4.0 currently under review by **9 experts**.
-* **Neurology & Neurological Research:** Invitation accepted for "Non-Living Intelligence" publication. 
 ---
 
 <p align="center">
