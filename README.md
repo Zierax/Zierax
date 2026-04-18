@@ -41,7 +41,7 @@
 > **Deterministic AGI (In-Development):** Scaling the Axiom-LRM to eliminate the "Possibility" factor. Intelligence is a law, not a dice roll.
 
 * **Axiom-LRM (Large Reasoning Model):** Shifting AI from statistical guessing to **Pure Logical Inference**. If laws exist, AGI is just a matter of execution. [AGI??](https://github.com/Zierax/Axiom-LRM)
-* **Axiom-Zspace:** Large-scale signal deconvolution. **Milestone:** Discovered 33 new exoplanet candidates in 45 minutes on consumer hardware. [Benchmarks](https://github.com/Zierax/Axiom-Zspace) `(for my girlfriend birthday)`
+* **Axiom-Zspace:** Large-scale signal deconvolution. **Milestone:** Discovered 33 new exoplanet candidates in 45 minutes on consumer hardware. [Benchmarks](https://github.com/Zierax/Axiom-Zspace)
 * **Axiom-02:** Advanced affective emotional responsage (Evolution of Phonosemantics). **Status: StressTests** [Benchmarks / Sourcecode](https://github.com/Zierax/Axiom-02)
 * **Ecdysis:** An Adversarial Ecosystem designed to outpace and deceive ML-based EDRs through Deterministic Mimicry. **Status: StressTests**
 * **Axiom-Ice:** A Logic-based generative engine that replaces byte-storage with law-based representation. **Status: StressTests**
