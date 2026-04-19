@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0f&height=220&section=header&text=ZIAD%20SALAH&fontSize=75&fontColor=A855F7&animation=twinkling&fontAlignY=40&desc=INDEPENDENT%20RESEARCHER%20|%20CYBERSECURITY%20ENGINEER%20|%20SYSTEM%20ARCHITECT&descAlignY=65&descSize=16" width="100%"/>
-
-<br/>
-
 <p align="center">
   <img src="https://img.shields.io/badge/IDENTITY-ROOT_ACCESS-A855F7?style=for-the-badge&labelColor=0a0a0f" />
   <img src="https://img.shields.io/badge/UPTIME-17_YEARS-white?style=for-the-badge&labelColor=0a0a0f" />
@@ -11,10 +7,6 @@
 </p>
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=BD93F9&center=true&vCenter=true&width=700&lines=>>+KERNEL_LOG:+CAIRO_CORE+STILL+AWAKE;>>+Logic+>+Luck;>>+latency:+34ns+(Physical+Limit);>>+SOTA:+Broken+by+Design;>>+Truthimatics:+The+End+of+Guessing;>>+ziad@axiom:~%23+whoami+--human;>>+Deterministic+AGI:+In-Progress;>>+100%25+Deterministic.+0%25+Hallucination" alt="Typing SVG" />
-
-</div>
 
 ---
 
@@ -67,6 +59,10 @@ While others study the "Box," I dismantled it. My research spans the intersectio
 ### Peer Review Status:
 * **Scientific Reports (Nature Portfolio):** PTRR v4.0 currently under review by **9 experts**.
 ---
+
+<p align="center">
+  <img src="https://github-profile-trophy-ahmed.vercel.app/?username=Zierax&theme=onestar&no-bg=true&no-frame=true&row=1&column=7&v=3" alt="GitHub Trophies" />
+</p>
 
 <p align="center">
 <a href="https://github.com/Zierax">
