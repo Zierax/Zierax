@@ -71,3 +71,8 @@ While others study the "Box," I dismantled it. My research spans the intersectio
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zierax&hide=html,css,tsql&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=daf7dc&icon_color=A855F7&bg_color=0a0a0f" alt="Ziad Salah | Top Languages" />
 </a>
 <br>
+
+---
+
+Available for technical partnership or custom engine development (SOTA performance guaranteed).
+Contact: zs.01117875692@gmail.com
