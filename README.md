@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/IDENTITY-ROOT_ACCESS-A855F7?style=for-the-badge&labelColor=0a0a0f" />
   <img src="https://img.shields.io/badge/UPTIME-17_YEARS-white?style=for-the-badge&labelColor=0a0a0f" />
   <img src="https://img.shields.io/badge/RUNTIME-10_YEARS-white?style=for-the-badge&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/STATUS-BORED_AS_HELL-white?style=for-the-badge&labelColor=0a0a0f" />
   <img src="https://komarev.com/ghpvc/?username=Zierax&style=for-the-badge&color=A855F7&labelColor=0a0a0f&label=TRAFFIC" alt="Views" />
 </p>
 
@@ -72,7 +73,3 @@ While others study the "Box," I dismantled it. My research spans the intersectio
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zierax&hide=html,css,tsql&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=daf7dc&icon_color=A855F7&bg_color=0a0a0f" alt="Ziad Salah | Top Languages" />
 </a>
 <br>
-  
-<div align="center">
-  <code><b>KERNEL_LOG:</b> 2026.04.16.10:37</code> | <code><b>LOC:</b> CAIRO_CORE</code> | <code><b>STATUS:</b> BORED_AS_HELL</code>
-</div>
