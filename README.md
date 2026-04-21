@@ -16,7 +16,7 @@
 | Project | Objective | Performance Metric | Technical Proof |
 | :--- | :--- | :--- | :--- |
 | **Axiom-Math** | Hallucination-free mathematical reasoning via formal logic invariants | **SOTA** (NP vs co-NP Frontier) | [Benchmarks](https://github.com/Zierax/Axiom-Math)|
-| **Axiom-Qsecurity** | Quantum-Kernel SVM Evolution For Planck-99 | **100% Recall** (Unseen) | [v1 Benchmarks](https://github.com/Zierax/Axiom-Qsecurity) |
+| **Axiom-Qsecurity** | Quantum-Kernel SVM Evolution For Planck-99 | **84% Recall/FPR 0.0006%** (Unseen)  | [v1 Benchmarks](https://github.com/Zierax/Axiom-Qsecurity) |
 | **Planck-99** | Linux Kernel Malware Audit | **30-73ns** Latency, **96% accuracy** (Unseen) | [Benchmarks](https://github.com/Division-36/Planck-99_PublicBenchmarks) |
 | **Axiom-Astrophysics** | Cosmic Signal Deconvolution | **100%** P/R/F1 (Unseen) | [Audit Report / Sourcecode](https://github.com/Zierax/Axiom-Astrophysics) |
 | **Axiom-WAF** | Deterministic Web firewall Defense | **99.33%** Accuracy (Unseen) | [Benchmarks](https://github.com/Division-36/AxiomWAF-Brain_PublicBenchmarks) |
