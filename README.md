@@ -11,7 +11,7 @@
 ---
 
 ### High-Frequency Logic (SOTA Status)
-*Core engines optimized for sub-nano/microsecond inference and deterministic behavior.*
+*Core engines optimized for sub-milleseconds inference and deterministic behavior.*
 
 | Project | Objective | Performance Metric | Technical Proof |
 | :--- | :--- | :--- | :--- |
