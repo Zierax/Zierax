@@ -23,6 +23,7 @@
 | **Axiom-Vesuvius** | Herculaneum Papyrus Recovery | **91.83%** F1-Score (Math/Physics-Driven) | [Benchmarks](https://github.com/Zierax/Axiom-Vesuvius/) |
 | **SYRTH** | Static Vulnerability Analysis | **4.1K records/s** **99% Accuracy** | [Full Report](https://github.com/Division-36/Syrth_PublicBenchmark) |
 | **Axiom-Sigint** | Interstellar Signal Intelligence System | **New physics Found** | **[ACCESS_RESTRICTED]** |
+| **Axiom-Zspace** | Large-scale signal deconvolution TESS-based. | **Milestone:** v2: 3-new-exoplanet-candidates/10-min. | [Benchmarks](https://github.com/Zierax/Axiom-Zspace) |
 | **Axiom-02** | Advanced affective emotional responsage (Evolution of Phonosemantics) | **Advanced Emotional Statues simulated** | [Benchmarks](https://github.com/Zierax/Axiom-02) |
 | **Axiom-Dinosaur** | Reconstructing prehistoric biological structures | **Deterministic Morphological Mapping** | [Benchmarks/Paint](https://github.com/Zierax/Axiom-Dinosaur) | 
 
@@ -37,7 +38,6 @@
 > **Deterministic AGI (In-Development):** Scaling the Axiom-LRM to eliminate the "Possibility" factor. Intelligence is a law, not a dice roll.
 
 * **Axiom-LRM (Large Reasoning Model):** Shifting AI from statistical guessing to **Pure Logical Inference**. [AGI??](https://github.com/Zierax/Axiom-LRM)
-* **Axiom-Zspace:** Large-scale signal deconvolution. **Milestone:** Discovered 33 new exoplanet candidates in 45 minutes on consumer hardware. [Benchmarks](https://github.com/Zierax/Axiom-Zspace)
 * **Ecdysis:** An Adversarial Ecosystem designed to outpace and deceive ML-based EDRs through Deterministic Mimicry. **Status: StressTests**
 * **Axiom-Ice:** A Logic-based generative engine that replaces byte-storage with law-based representation. **Status: StressTests**
 * **Corex (Axiom-Kernel):** A Secure-by-Design micro-kernel built on the intersection of logical and physical laws. **Status: Alpha**
