@@ -24,6 +24,8 @@
 | **SYRTH** | Static Vulnerability Analysis | **4.1K records/s** **99% Accuracy** | [Full Report](https://github.com/Division-36/Syrth_PublicBenchmark) |
 | **Axiom-Sigint** | Interstellar Signal Intelligence System | **New physics Found** | **[ACCESS_RESTRICTED]** |
 | **Axiom-02** | Advanced affective emotional responsage (Evolution of Phonosemantics) | **Advanced Emotional Statues simulated** | [Benchmarks](https://github.com/Zierax/Axiom-02) |
+| **Axiom-Dinosaur** | Reconstructing prehistoric biological structures | **Deterministic Morphological Mapping** | [Benchmarks/Paint](https://github.com/Zierax/Axiom-Dinosaur) | 
+
 
 
 ---
@@ -39,7 +41,6 @@
 * **Ecdysis:** An Adversarial Ecosystem designed to outpace and deceive ML-based EDRs through Deterministic Mimicry. **Status: StressTests**
 * **Axiom-Ice:** A Logic-based generative engine that replaces byte-storage with law-based representation. **Status: StressTests**
 * **Corex (Axiom-Kernel):** A Secure-by-Design micro-kernel built on the intersection of logical and physical laws. **Status: Alpha**
-* **Axiom-Dinosaur:** Reconstructing prehistoric biological structures via **Deterministic Morphological Mapping**. **Status: Alpha.**
 * **Axiom-Bio:** Protein folding and genomic sequence deconvolution. Targeted at **Zero-Hallucination protein synthesis**. **Status: Alpha.**
 * **Axiom-Chess:** Deterministic game-tree expansion and tactical invariant mapping. **Status: Alpha.**
 * **Axiom-Go:** Scaling Truthimatics to high-complexity combinatorial state spaces. **Status: Alpha.**
