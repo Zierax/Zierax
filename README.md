@@ -39,6 +39,7 @@
 
 * **Axiom-LRM (Large Reasoning Model):** Shifting AI from statistical guessing to **Pure Logical Inference**. [AGI??](https://github.com/Zierax/Axiom-LRM)
 * **Ecdysis:** An Adversarial Ecosystem designed to outpace and deceive ML-based EDRs through Deterministic Mimicry. **Status: StressTests**
+* **Axiom-02-World:** Real-time 1000-agent simulation of global headline impact based on [Axiom-02](https://github.com/Zierax/Axiom-02). **Status: StressTests**
 * **Axiom-Ice:** A Logic-based generative engine that replaces byte-storage with law-based representation. **Status: StressTests**
 * **Corex (Axiom-Kernel):** A Secure-by-Design micro-kernel built on the intersection of logical and physical laws. **Status: Alpha**
 * **Axiom-Bio:** Protein folding and genomic sequence deconvolution. Targeted at **Zero-Hallucination protein synthesis**. **Status: Alpha.**
