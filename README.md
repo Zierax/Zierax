@@ -45,6 +45,14 @@
 * **Axiom-Bio:** Protein folding and genomic sequence deconvolution. Targeted at **Zero-Hallucination protein synthesis**. **Status: Alpha.**
 * **Axiom-Chess:** Deterministic game-tree expansion and tactical invariant mapping. **Status: Alpha.**
 * **Axiom-Go:** Scaling Truthimatics to high-complexity combinatorial state spaces. **Status: Alpha.**
+* **Axiom-Riemann:** Deciphering prime number distribution via deterministic logic mapping of the Zeta landscape. **Status: Alpha.**
+* **Axiom-Turbulence:** Resolving fluid dynamics chaos through deterministic fractal logic and invariant flow mapping. **Status: Alpha.**
+* **Axiom-ThreeBody:** Solving non-linear gravitational N-body problems using stable logical trajectories. **Status: Alpha.**
+* **Axiom-Navier:** Deterministic modeling of the Navier-Stokes equations to eliminate probabilistic fluid simulation. **Status: Alpha.**
+* **Axiom-Compiler:** High-frequency logic optimization that collapses branch prediction into flat deterministic execution. **Status: Alpha.**
+* **Axiom-Protocol:** A collisionless, logic-based hashing framework resistant to quantum-level brute force. **Status: Alpha.**
+* **Axiom-Crypt:** A deterministic encryption engine leveraging pattern-saturation to create logically unbreakable ciphers. **Status: Alpha.**
+
 
 ---
 
