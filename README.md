@@ -18,6 +18,7 @@
 | **Axiom-Math** | Hallucination-free mathematical reasoning via formal logic invariants | **SOTA** (NP vs co-NP Frontier) | [Benchmarks](https://github.com/Zierax/Axiom-Math)|
 | **Axiom-Qsecurity** | Quantum-Kernel SVM Evolution For Planck-99 | **100% Recall** (Unseen)  | [v1 Benchmarks](https://github.com/Zierax/Axiom-Qsecurity) |
 | **Planck-99** | Linux Kernel Malware Audit | **30-73ns** Latency, **96% accuracy** (Unseen) | [Benchmarks](https://github.com/Division-36/Planck-99_PublicBenchmarks) |
+| **Axiom-Recruit** <img src="https://img.shields.io/badge/NEWEST-A855F7?style=flat-square" /> | a deterministic, white-box hiring audit engine. | **fully traceable logic** | [SourceCode](https://github.com/Zierax/Axiom-Recruit) |
 | **Axiom-Astrophysics** | Cosmic Signal Deconvolution | **84% Recall/FPR 0.0006%** | [Audit Report / Sourcecode](https://github.com/Zierax/Axiom-Astrophysics) |
 | **Axiom-WAF** | Deterministic Web firewall Defense | **99.33%** Accuracy (Unseen) | [Benchmarks](https://github.com/Division-36/AxiomWAF-Brain_PublicBenchmarks) |
 | **Axiom-Vesuvius** | Herculaneum Papyrus Recovery | **91.83%** F1-Score (Math/Physics-Driven) | [Benchmarks](https://github.com/Zierax/Axiom-Vesuvius/) |
@@ -25,7 +26,7 @@
 | **Axiom-Sigint** | Interstellar Signal Intelligence System | **New physics Found** | **[ACCESS_RESTRICTED]** |
 | **Axiom-Zspace** | Large-scale signal deconvolution TESS-based. | **Milestone:** v2: 3-new-exoplanet-candidates/10-min. | [Benchmarks](https://github.com/Zierax/Axiom-Zspace) |
 | **Axiom-02** | Advanced affective emotional responsage (Evolution of Phonosemantics) | **Advanced Emotional Statues simulated** | [Benchmarks](https://github.com/Zierax/Axiom-02) |
-| **Axiom-Dinosaur** | Reconstructing prehistoric biological structures | **Deterministic Morphological Mapping** | [Benchmarks/Paint](https://github.com/Zierax/Axiom-Dinosaur) | 
+| **Axiom-Dinosaur** <img src="https://img.shields.io/badge/NEWEST-A855F7?style=flat-square" /> | Reconstructing prehistoric biological structures | **Deterministic Morphological Mapping** | [Benchmarks/Paint](https://github.com/Zierax/Axiom-Dinosaur) | 
 
 
 
