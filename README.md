@@ -27,6 +27,8 @@
 | **Axiom-Zspace** | Large-scale signal deconvolution TESS-based. | **Milestone:** v2: 3-new-exoplanet-candidates/10-min. | [Benchmarks](https://github.com/Zierax/Axiom-Zspace) |
 | **Axiom-02** | Advanced affective emotional responsage (Evolution of Phonosemantics) | **Advanced Emotional Statues simulated** | [Benchmarks](https://github.com/Zierax/Axiom-02) |
 | **Axiom-Dinosaur** <img src="https://img.shields.io/badge/NEWEST-A855F7?style=flat-square" /> | Reconstructing prehistoric biological structures | **Deterministic Morphological Mapping** | [Benchmarks/Paint](https://github.com/Zierax/Axiom-Dinosaur) | 
+| **AdmitGPT** | Fully White-Box Admission math engine - ClientSide - **e2e MVP** | **2200 user** | [Live Website](https://admitgpt.pages.dev/) |
+
 
 
 
