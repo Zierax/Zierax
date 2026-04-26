@@ -20,12 +20,13 @@
 | **Planck-99** | Linux Kernel Malware Audit | **30-73ns** Latency, **96% accuracy** (Unseen) | [Benchmarks](https://github.com/Division-36/Planck-99_PublicBenchmarks) |
 | **Axiom-Recruit** <img src="https://img.shields.io/badge/NEWEST-A855F7?style=flat-square" /> | a deterministic, white-box hiring audit engine. | **fully traceable logic** | [SourceCode](https://github.com/Zierax/Axiom-Recruit) |
 | **Axiom-Astrophysics** | Cosmic Signal Deconvolution | **84% Recall/FPR 0.0006%** | [Audit Report / Sourcecode](https://github.com/Zierax/Axiom-Astrophysics) |
-| **Axiom-WAF** | Deterministic Web firewall Defense | **99.33%** Accuracy (Unseen) | [Benchmarks](https://github.com/Division-36/AxiomWAF-Brain_PublicBenchmarks) |
+| **Axiom-WAF** | Deterministic Web firewall Defense | **99.5%** Accuracy (Unseen) | [Benchmarks](https://github.com/Division-36/AxiomWAF-Brain_PublicBenchmarks) |
 | **Axiom-Vesuvius** | Herculaneum Papyrus Recovery | **91.83%** F1-Score (Math/Physics-Driven) | [Benchmarks](https://github.com/Zierax/Axiom-Vesuvius/) |
 | **SYRTH** | Static Vulnerability Analysis | **4.1K records/s** **99% Accuracy** | [Full Report](https://github.com/Division-36/Syrth_PublicBenchmark) |
 | **Axiom-Sigint** | Interstellar Signal Intelligence System | **New physics Found** | **[ACCESS_RESTRICTED]** |
-| **Axiom-Zspace** | Large-scale signal deconvolution TESS-based. | **Milestone:** v2: 3-new-exoplanet-candidates/10-min. | [Benchmarks](https://github.com/Zierax/Axiom-Zspace) |
+| **Axiom-Zspace** <img src="https://img.shields.io/badge/NEWEST-A855F7?style=flat-square" /> | Large-scale signal deconvolution TESS-based. | **Milestone:** Benchmarks on known planets 92.7% on 613/Sample & 2000+ Exoplanet Candidate in 20-hour, **Still on going** | [Benchmarks](https://github.com/Zierax/Axiom-Zspace) |
 | **Axiom-02** | Advanced affective emotional responsage (Evolution of Phonosemantics) | **Advanced Emotional Statues simulated** | [Benchmarks](https://github.com/Zierax/Axiom-02) |
+| **Axiom-02-World** <img src="https://img.shields.io/badge/NEWEST-A855F7?style=flat-square" /> | Real-time 1000-agent simulation of global headline impact | **Whitebox Decisions Sequence per agent** | [under maintain]() | 
 | **Axiom-Dinosaur** <img src="https://img.shields.io/badge/NEWEST-A855F7?style=flat-square" /> | Reconstructing prehistoric biological structures | **Deterministic Morphological Mapping** | [Benchmarks/Paint](https://github.com/Zierax/Axiom-Dinosaur) | 
 | **AdmitGPT** | Fully White-Box Admission math engine - ClientSide - **e2e MVP** | **2200 user** | [Live Website](https://admitgpt.pages.dev/) |
 
@@ -42,7 +43,6 @@
 
 * **Axiom-LRM (Large Reasoning Model):** Shifting AI from statistical guessing to **Pure Logical Inference**. [AGI??](https://github.com/Zierax/Axiom-LRM)
 * **Ecdysis:** An Adversarial Ecosystem designed to outpace and deceive ML-based EDRs through Deterministic Mimicry. **Status: StressTests**
-* **Axiom-02-World:** Real-time 1000-agent simulation of global headline impact based on [Axiom-02](https://github.com/Zierax/Axiom-02). **Status: StressTests**
 * **Axiom-Ice:** A Logic-based generative engine that replaces byte-storage with law-based representation. **Status: StressTests**
 * **Corex (Axiom-Kernel):** A Secure-by-Design micro-kernel built on the intersection of logical and physical laws. **Status: Alpha**
 * **Axiom-Bio:** Protein folding and genomic sequence deconvolution. Targeted at **Zero-Hallucination protein synthesis**. **Status: Alpha.**
