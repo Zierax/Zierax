@@ -21,7 +21,7 @@
 | **Axiom-Recruit** <img src="https://img.shields.io/badge/NEWEST-A855F7?style=flat-square" /> | a deterministic, white-box hiring audit engine. | **fully traceable logic** | [SourceCode](https://github.com/Zierax/Axiom-Recruit) |
 | **Axiom-Astrophysics** | Cosmic Signal Deconvolution | **84% Recall/FPR 0.0006%** | [Audit Report / Sourcecode](https://github.com/Zierax/Axiom-Astrophysics) |
 | **Axiom-WAF** | Deterministic Web firewall Defense | **99.5%** Accuracy (Unseen) | [Benchmarks](https://github.com/Division-36/AxiomWAF-Brain_PublicBenchmarks) |
-| **Axiom-Vesuvius** | Herculaneum Papyrus Recovery | **91.83%** F1-Score (Math/Physics-Driven) | [Benchmarks](https://github.com/Zierax/Axiom-Vesuvius/) |
+| **Axiom-Vesuvius** | Herculaneum Papyrus Recovery | Frag1,2,3 F1>94% / P>99% | [Benchmarks](https://github.com/Zierax/Axiom-Vesuvius/) |
 | **SYRTH** | Static Vulnerability Analysis | **4.1K records/s** **99% Accuracy** | [Full Report](https://github.com/Division-36/Syrth_PublicBenchmark) |
 | **Axiom-Sigint** | Interstellar Signal Intelligence System | **New physics Found** | [Full Reports](https://github.com/Zierax/Axiom-Sigint_Public) |
 | **Axiom-Zspace** <img src="https://img.shields.io/badge/NEWEST-A855F7?style=flat-square" /> | Large-scale signal deconvolution TESS-based. | **Milestone:** Benchmarks on known planets 92.7% on 613/Sample & 2000+ Exoplanet Candidate in 20-hour, **Still on going** | [Benchmarks](https://github.com/Zierax/Axiom-Zspace) |
