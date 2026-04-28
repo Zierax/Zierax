@@ -88,5 +88,7 @@ While others study the "Box," I dismantled it. My research spans the intersectio
 
 ---
 
-Available for technical partnership or custom engine development (SOTA performance guaranteed).
-Contact: zs.01117875692@gmail.com
+<p align="center">
+  <b>[ Available Strategic Partnership ]</b><br>
+  <b><a href="mailto:zs.01117875692@gmail.com">Initiate Contact</a></b>
+</p>
