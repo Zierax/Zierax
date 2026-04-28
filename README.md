@@ -26,7 +26,7 @@
 | **Axiom-Sigint** | Interstellar Signal Intelligence System | **New physics Found** | [Full Reports](https://github.com/Zierax/Axiom-Sigint_Public) |
 | **Axiom-Zspace** <img src="https://img.shields.io/badge/NEWEST-A855F7?style=flat-square" /> | Large-scale signal deconvolution TESS-based. | **Milestone:** Benchmarks on known planets 92.7% on 613/Sample & 2886 Exoplanet Candidate in 24-hour run, **Still on going** | [Benchmarks](https://github.com/Zierax/Axiom-Zspace) |
 | **Axiom-02** | Advanced affective emotional responsage (Evolution of Phonosemantics) | **Advanced Emotional Statues simulated** | [Benchmarks](https://github.com/Zierax/Axiom-02) |
-| **Axiom-02-World** <img src="https://img.shields.io/badge/NEWEST-A855F7?style=flat-square" /> | Real-time 1000-agent simulation of global headline impact | **Whitebox Decisions Sequence per agent** | [under maintain]() | 
+| **Axiom-02-World** <img src="https://img.shields.io/badge/NEWEST-A855F7?style=flat-square" /> | Real-time 1000-agent simulation of global headline impact | **Whitebox Decisions Sequence per agent** | [Live Website](https://axiom-02-world.zs-01117875692.workers.dev/) | 
 | **Axiom-Dinosaur** <img src="https://img.shields.io/badge/NEWEST-A855F7?style=flat-square" /> | Reconstructing prehistoric biological structures | **Deterministic Morphological Mapping** | [Benchmarks/Paint](https://github.com/Zierax/Axiom-Dinosaur) | 
 | **AdmitGPT** | Fully White-Box Admission math engine - ClientSide - **e2e MVP** | **2200 user** | [Live Website](https://admitgpt.pages.dev/) |
 
