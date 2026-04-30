@@ -36,7 +36,7 @@
 ---
 
 ### NEXT: The Axiom Expansion (AGI Frontier)
-*R&D Phase: Shifting AI from probabilistic "next-word" guessing to pure Logical Inference.*
+*Long-Term R&D Phase: Shifting AI from probabilistic "next-word" guessing to pure Logical Inference.*
 
 > [!CAUTION]
 > **Deterministic AGI (In-Development):** Scaling the Axiom-LRM to eliminate the "Possibility" factor. Intelligence is a law, not a dice roll.
