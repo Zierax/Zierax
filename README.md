@@ -15,7 +15,7 @@
 
 | Project | Objective | Performance Metric | Technical Proof |
 | :--- | :--- | :--- | :--- |
-| **Axiom-Math** | Hallucination-free mathematical reasoning via formal logic invariants | **SOTA** (NP vs co-NP Frontier) | [Benchmarks](https://github.com/Zierax/Axiom-Math)|
+| **Axiom-Math** | Hallucination-free mathematical reasoning via formal logic invariants | (NP vs co-NP Frontier) | [Benchmarks](https://github.com/Zierax/Axiom-Math)|
 | **Axiom-Qsecurity** | Quantum-Kernel SVM Evolution For Planck-99 | **100% Recall** (Unseen)  | [v1 Benchmarks](https://github.com/Zierax/Axiom-Qsecurity) |
 | **Planck-99** | Linux Kernel Malware Audit | **30-73ns** Latency, **96% accuracy** (Unseen) | [Benchmarks](https://github.com/Division-36/Planck-99_PublicBenchmarks) |
 | **Axiom-Recruit** <img src="https://img.shields.io/badge/NEWEST-A855F7?style=flat-square" /> | a deterministic, white-box hiring audit engine. | **fully traceable logic** | [SourceCode](https://github.com/Zierax/Axiom-Recruit) |
