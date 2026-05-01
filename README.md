@@ -72,7 +72,7 @@ While others study the "Box," I dismantled it. My research spans the intersectio
 
 
 ### Peer Review Status:
-* **Scientific Reports (Nature Portfolio):** PTRR v4.0 currently under review by **11 experts**.
+* **Scientific Reports (Nature Portfolio):** PTRR v5.0 currently under review by **11 experts**.
 ---
 
 <p align="center">
