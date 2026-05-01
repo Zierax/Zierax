@@ -44,6 +44,7 @@
 * **Axiom-LRM (Large Reasoning Model):** Shifting AI from statistical guessing to **Pure Logical Inference**. [AGI??](https://github.com/Zierax/Axiom-LRM)
 * **Ecdysis:** An Adversarial Ecosystem designed to outpace and deceive ML-based EDRs through Deterministic Mimicry. **Status: StressTests**
 * **Axiom-Ice:** A Logic-based generative engine that replaces byte-storage with law-based representation. **Status: StressTests**
+* **Axiom-Crypt:** A deterministic encryption engine leveraging pattern-saturation to create logically unbreakable ciphers. **Status: StressTests**
 * **Corex (Axiom-Kernel):** A Secure-by-Design micro-kernel built on the intersection of logical and physical laws. **Status: Alpha**
 * **Axiom-Search:** Neural context indexing and deterministic retrieval. Targeted at Zero-Probabilistic relevance synthesis. Status: Alpha.
 * **Axiom-Bio:** Protein folding and genomic sequence deconvolution. Targeted at **Zero-Hallucination protein synthesis**. **Status: Alpha.**
@@ -54,7 +55,6 @@
 * **Axiom-ThreeBody:** Solving non-linear gravitational N-body problems using stable logical trajectories. **Status: Alpha.**
 * **Axiom-Compiler:** High-frequency logic optimization that collapses branch prediction into flat deterministic execution. **Status: Alpha.**
 * **Axiom-Protocol:** A collisionless, logic-based hashing framework resistant to quantum-level brute force. **Status: Alpha.**
-* **Axiom-Crypt:** A deterministic encryption engine leveraging pattern-saturation to create logically unbreakable ciphers. **Status: Alpha.**
 
 
 ---
