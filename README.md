@@ -57,7 +57,7 @@
 | :--- | :--- | :--- | :--- |
 | [**PTRR Framework v5.0**](https://doi.org/10.5281/zenodo.18873773) | **Scientific Reports (Nature Portfolio)** - *Under review by 11 experts* | Metacognitive AI Audit | Shifting finding profiles from Low to Critical-Dominant. |
 | [**PTRR Framework**](https://doi.org/10.5281/zenodo.18873773) | **IEEE AIITA 2026** - *Accepted* | AI Audit Systems | Architecture Validation. |
-| [**DVF Framework**](https://doi.org/10.5281/zenodo.18751159) | **Neurology Research** - *Invited* | Human-AI Neuro-interaction | Redefining AI-Vitality via Structural Activation. |
+| [**DVF Framework**](https://doi.org/10.5281/zenodo.18751159) | **Neurology Research** - *Invited* | Creative-Arts by AI | Redefining AI-Vitality via Structural Activation. |
 
 ---
 
