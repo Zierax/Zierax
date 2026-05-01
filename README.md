@@ -1,83 +1,79 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Ziad_Salah-A855F7?style=for-the-badge&labelColor=0a0a0f" />
   <img src="https://img.shields.io/badge/UPTIME-17_YEARS-white?style=for-the-badge&labelColor=0a0a0f" />
-  <img src="https://img.shields.io/badge/RUNTIME-10_YEARS-white?style=for-the-badge&labelColor=0a0a0f" />
-  <img src="https://img.shields.io/badge/STATUS-BORED_AS_HELL-white?style=for-the-badge&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/FOCUS-DETERMINISTIC_AI-white?style=for-the-badge&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/STATUS-R&D_ACTIVE-white?style=for-the-badge&labelColor=0a0a0f" />
   <img src="https://komarev.com/ghpvc/?username=Zierax&style=for-the-badge&color=A855F7&labelColor=0a0a0f&label=TRAFFIC" alt="Views" />
 </p>
 
 <br/>
 
+<h2 align="center">Shifting AI from Probabilistic Guessing to Pure Logical Inference.</h2>
+<p align="center"><i>"If you possess the core logic of the universe, any traditional code is just a wrapper."</i></p>
+
 ---
 
-### High-Frequency Logic (SOTA Status)
-*Core engines optimized for sub-milleseconds inference and deterministic behavior.*
+### Enterprise & Security Architecture (Production-Ready)
+*Core deterministic engines optimized for sub-millisecond inference. Zero hallucinations, 100% mathematical auditability.*
 
-| Project | Objective | Performance Metric | Technical Proof |
+| System | Objective | SOTA Metric | Technical Audit |
 | :--- | :--- | :--- | :--- |
-| **Axiom-Math** | Hallucination-free mathematical reasoning via formal logic invariants | (NP vs co-NP Frontier) | [Benchmarks](https://github.com/Zierax/Axiom-Math)|
-| **Axiom-Qsecurity** | Quantum-Kernel SVM Evolution For Planck-99 | **100% Recall** (Unseen)  | [v1 Benchmarks](https://github.com/Zierax/Axiom-Qsecurity) |
-| **Planck-99** | Linux Kernel Malware Audit | **30-73ns** Latency, **96% accuracy** (Unseen) | [Benchmarks](https://github.com/Division-36/Planck-99_PublicBenchmarks) |
-| **Axiom-Recruit** <img src="https://img.shields.io/badge/NEWEST-A855F7?style=flat-square" /> | a deterministic, white-box hiring audit engine. | **fully traceable logic** | [SourceCode](https://github.com/Zierax/Axiom-Recruit) |
-| **Axiom-Astrophysics** | Cosmic Signal Deconvolution | **84% Recall/FPR 0.0006%** | [Audit Report / Sourcecode](https://github.com/Zierax/Axiom-Astrophysics) |
-| **Axiom-WAF** | Deterministic Web firewall Defense | **99.5%** Accuracy (Unseen) | [Benchmarks](https://github.com/Division-36/AxiomWAF-Brain_PublicBenchmarks) |
-| **Axiom-Vesuvius** | Herculaneum Papyrus Recovery | Frag1,2,3 F1>94% / P>99% | [Benchmarks](https://github.com/Zierax/Axiom-Vesuvius/) |
-| **SYRTH** | Static Vulnerability Analysis | **4.1K records/s** **99% Accuracy** | [Full Report](https://github.com/Division-36/Syrth_PublicBenchmark) |
-| **Axiom-Sigint** | Interstellar Signal Intelligence System | **New physics Found** | [Full Reports](https://github.com/Zierax/Axiom-Sigint_Public) |
-| **Axiom-Zspace** <img src="https://img.shields.io/badge/NEWEST-A855F7?style=flat-square" /> | Large-scale signal deconvolution TESS-based. | **Milestone:** Benchmarks on known planets 92.7% on 613/Sample & 2886 Exoplanet Candidate in 24-hour run, **Still on going** | [Benchmarks](https://github.com/Zierax/Axiom-Zspace) |
-| **Axiom-02** | Advanced affective emotional responsage (Evolution of Phonosemantics) | **Advanced Emotional Statues simulated** | [Benchmarks](https://github.com/Zierax/Axiom-02) |
-| **Axiom-02-World** <img src="https://img.shields.io/badge/NEWEST-A855F7?style=flat-square" /> | Real-time 1000-agent simulation of global headline impact | **Whitebox Decisions Sequence per agent** | [Live Website](https://axiom-02-world.zs-01117875692.workers.dev/) | 
-| **Axiom-Dinosaur** <img src="https://img.shields.io/badge/NEWEST-A855F7?style=flat-square" /> | Reconstructing prehistoric biological structures | **White-Box Morphological Mapping of 58 Dinosaur** | [Benchmarks/Paints](https://github.com/Zierax/Axiom-Dinosaur) | 
-| **AdmitGPT** | Fully White-Box Admission math engine - ClientSide - **e2e MVP** | **2200 user** | [Live Website](https://admitgpt.pages.dev/) |
-
-
-
+| **Planck-99** | Linux Kernel Malware Detection | **30-73ns** Latency, **96% accuracy** (Unseen) | [Benchmarks](https://github.com/Division-36/Planck-99_PublicBenchmarks) |
+| **Axiom-WAF** | Deterministic Web Firewall Defense | **99.5%** Accuracy on 331K samples | [Benchmarks](https://github.com/Division-36/AxiomWAF-Brain_PublicBenchmarks) |
+| **SYRTH** | Static Vulnerability Analysis | **4.1K records/s**, **99% Accuracy** | [Full Report](https://github.com/Division-36/Syrth_PublicBenchmark) |
+| **Axiom-Qsecurity** | Quantum-Kernel SVM Evolution | **100% Recall** (Unseen Data) | [v1 Benchmarks](https://github.com/Zierax/Axiom-Qsecurity) |
+| **Axiom-Recruit** | White-Box Hiring Audit Engine | **Fully Traceable Logic Trail** | [Source Code](https://github.com/Zierax/Axiom-Recruit) |
 
 ---
 
-### NEXT: The Axiom Expansion (AGI Frontier)
-*Long-Term R&D Phase: Shifting AI from probabilistic "next-word" guessing to pure Logical Inference.*
+### Applied Scientific Computing
+*Replacing stochastic deep learning with deterministic physical models for high-fidelity scientific discovery.*
 
-> [!CAUTION]
-> **Deterministic AGI (In-Development):** Scaling the Axiom-LRM to eliminate the "Possibility" factor. Intelligence is a law, not a dice roll.
-
-* **Axiom-LRM (Large Reasoning Model):** Shifting AI from statistical guessing to **Pure Logical Inference**. [AGI??](https://github.com/Zierax/Axiom-LRM)
-* **Ecdysis:** An Adversarial Ecosystem designed to outpace and deceive ML-based EDRs through Deterministic Mimicry. **Status: StressTests**
-* **Axiom-Ice:** A Logic-based generative engine that replaces byte-storage with law-based representation. **Status: StressTests**
-* **Axiom-Crypt:** A deterministic encryption engine leveraging pattern-saturation to create logically unbreakable ciphers. **Status: StressTests**
-* **Corex (Axiom-Kernel):** A Secure-by-Design micro-kernel built on the intersection of logical and physical laws. **Status: Alpha**
-* **Axiom-Search:** Neural context indexing and deterministic retrieval. Targeted at Zero-Probabilistic relevance synthesis. Status: Alpha.
-* **Axiom-Bio:** Protein folding and genomic sequence deconvolution. Targeted at **Zero-Hallucination protein synthesis**. **Status: Alpha.**
-* **Axiom-Chess:** Deterministic game-tree expansion and tactical invariant mapping. **Status: Alpha.**
-* **Axiom-Go:** Scaling Truthimatics to high-complexity combinatorial state spaces. **Status: Alpha.**
-* **Axiom-Riemann:** Deciphering prime number distribution via deterministic logic mapping of the Zeta landscape. **Status: Alpha.**
-* **Axiom-Turbulence:** Resolving fluid dynamics chaos through deterministic fractal logic and invariant flow mapping. **Status: Alpha.**
-* **Axiom-ThreeBody:** Solving non-linear gravitational N-body problems using stable logical trajectories. **Status: Alpha.**
-* **Axiom-Compiler:** High-frequency logic optimization that collapses branch prediction into flat deterministic execution. **Status: Alpha.**
-* **Axiom-Protocol:** A collisionless, logic-based hashing framework resistant to quantum-level brute force. **Status: Alpha.**
-
+| Research Project | Domain | Milestone Achieved | Documentation |
+| :--- | :--- | :--- | :--- |
+| **Axiom-Vesuvius** | Herculaneum Papyrus Recovery | Frag 1-3 F1 > 94% / Precision > 98.5% | [Benchmarks](https://github.com/Zierax/Axiom-Vesuvius/) |
+| **Axiom-Zspace** | TESS Signal Deconvolution | 2,886 Exoplanet Candidates in 24h | [Ongoing Audit](https://github.com/Zierax/Axiom-Zspace) |
+| **Axiom-Astrophysics**| Cosmic Signal Filtering | 84% Recall / FPR 0.0006% | [Audit Report](https://github.com/Zierax/Axiom-Astrophysics) |
+| **Axiom-Math** | Formal Logic Invariants | SOTA on NP vs co-NP Frontier | [Benchmarks](https://github.com/Zierax/Axiom-Math)|
 
 ---
 
-### Research | The Science Behind Axiom
+### The Axiom Expansion (AGI & Theoretical R&D)
+*Long-Term R&D Phase: Intelligence is a mathematical law, not a statistical dice roll.*
 
-While others study the "Box," I dismantled it. My research spans the intersection of formal logic, cognitive musicology, and human-AI neuro-interaction.
+> **Proprietary Note:** The core kernels for the following projects are strictly closed-source to protect IP, pending institutional partnerships.
+
+* **Axiom-LRM (Large Reasoning Model):** The foundational architecture for Deterministic AGI.
+* **Corex (Axiom-Kernel):** Secure-by-Design micro-kernel built on logical and physical laws. *(Status: Alpha)*
+* **Ecdysis:** Adversarial Ecosystem out-pacing ML-based EDRs via Deterministic Mimicry. *(Status: Stress Tests)*
+* **Axiom-Bio:** Genomic sequence deconvolution for zero-hallucination protein synthesis. *(Status: Alpha)*
+* **Axiom-Turbulence:** Resolving fluid dynamics chaos through deterministic fractal logic. *(Status: Alpha)*
+
+---
+
+### Academic Publications & Frameworks
 
 | Framework | Status | Domain | Impact |
 | :--- | :--- | :--- | :--- |
-| [**PTRR Framework**](https://doi.org/10.5281/zenodo.18873773) | **IEEE AIITA 2026** Accepted | Metacognitive AI Audit | Shifting finding profiles from Low to **Critical-Dominant**. |
-| [**DVF Framework**](https://doi.org/10.5281/zenodo.18751159) | **Neurology Research** Invited | Creativite Arts Perception in AI era| Redefining AI-Vitality via **Structural Activation Potential**. |
-| **Truthimatics** | **Theory** | Deterministic Logic | **Proprietary Deterministic Logic Framework.** |
-| **Axiom-Logic** | **Production Phase** | Deterministic Reasoning | **Blackbox Elimination.** Pure logical inference. |
+| [**PTRR Framework v5.0**](https://doi.org/10.5281/zenodo.18873773) | **Scientific Reports (Nature Portfolio)** - *Under review by 11 experts* | Metacognitive AI Audit | Shifting finding profiles from Low to Critical-Dominant. |
+| [**PTRR Framework**](https://doi.org/10.5281/zenodo.18873773) | **IEEE AIITA 2026** - *Accepted* | AI Audit Systems | Architecture Validation. |
+| [**DVF Framework**](https://doi.org/10.5281/zenodo.18751159) | **Neurology Research** - *Invited* | Human-AI Neuro-interaction | Redefining AI-Vitality via Structural Activation. |
 
-
-### Peer Review Status:
-* **Scientific Reports (Nature Portfolio):** PTRR v5.0 currently under review by **11 experts**.
 ---
 
+
+### Axiom Verification Protocol
+I don’t expect you to trust "black-box" confidence scores. 
+
+* **The Proof:** Every core model (e.g., Axiom-Vesuvius, Axiom-Recruit, Axiom-Zspace) generates a json files for every inference. This is a mathematical audit trail of the logic path taken, allowing for 100% verification of the outcome.
+* **The Playground:** Coming Soon to Test the engine yourself. Upload your own unseen data to the [Axiom-Playground] and download the proof files for your own validation.
+* **Open Source:** Explore the core logic and kernel implementations at my own profile @Zierax.
 <p align="center">
-  <img src="https://github-profile-trophy-ahmed.vercel.app/?username=Zierax&theme=onestar&no-bg=true&no-frame=true&row=1&column=7&v=3" alt="GitHub Trophies" />
+  <b>[ Open for B2B Integration & Institutional R&D Partnerships ]</b><br>
+  <b><a href="mailto:zs.01117875692@gmail.com">Initiate Technical Validation Call</a></b>
 </p>
+
+---
 
 <p align="center">
 <a href="https://github.com/Zierax">
@@ -85,11 +81,4 @@ While others study the "Box," I dismantled it. My research spans the intersectio
 </a> <a href="https://github.com/Zierax">
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zierax&hide_title=false&hide_border=true&layout=compact&langs_count=12&text_color=daf7dc&icon_color=A855F7&bg_color=0a0a0f" alt="Ziad Salah | Top Languages" />
 </a>
-<br>
-
----
-
-<p align="center">
-  <b>[ Available Strategic Partnership ]</b><br>
-  <b><a href="mailto:zs.01117875692@gmail.com">Initiate Contact</a></b>
 </p>
