@@ -30,7 +30,7 @@
 | Project | Domain | Milestone | Documentation |
 | :--- | :--- | :--- | :--- |
 | **Axiom-Vesuvius** | Papyrus Recovery | F1 > 94% / Precision > 98.5% | [Benchmarks](https://github.com/Zierax/Axiom-Vesuvius/) |
-| **Axiom-Zspace** | TESS Signal Deconvolution | +4500 Exoplanet Candidates (ongoing)| [Audit](https://github.com/Zierax/Axiom-Zspace) |
+| **Axiom-Zspace** | TESS Signal Deconvolution | +5800 Exoplanet Candidates (ongoing)| [Audit](https://github.com/Zierax/Axiom-Zspace) |
 | **Axiom-02-World** | 1000-Agent Simulation | Real-time Decision Sequencing | [Live Engine](https://axiom-02-world.zs-01117875692.workers.dev/) |
 | **Axiom-02** | Affective Simulation | Advanced Emotional Mapping | [Benchmarks](https://github.com/Zierax/Axiom-02) |
 | **Axiom-Dinosaur** | Morphological Mapping | White-Box Biology | [Results](https://github.com/Zierax/Axiom-Dinosaur) |
