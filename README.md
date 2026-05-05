@@ -21,6 +21,7 @@
 | **SYRTH** | Static Vulnerability Analysis | **4.1K records/s**, **99% Acc** | [Report](https://github.com/Division-36/Syrth_PublicBenchmark) |
 | **Axiom-Recruit** | White-Box Hiring Audit Engine | Fully Traceable Logic Trail | [Source](https://github.com/Zierax/Axiom-Recruit) |
 | **Axiom-Qsecurity** | Quantum-Kernel SVM | **100% Recall** (Unseen Data) | [Benchmarks](https://github.com/Zierax/Axiom-Qsecurity) |
+| **Axiom-Crypt** | Hybrid PQ Cryptosystem | **0% Collision** (Indistinguishable)| [Benchmarks](https://github.com/Zierax/Axiom-Crypt) |
 
 ---
 
@@ -34,7 +35,9 @@
 | **Axiom-02-World** | 1000-Agent Simulation | Real-time Decision Sequencing | [Live Engine](https://axiom-02-world.zs-01117875692.workers.dev/) |
 | **Axiom-02** | Affective Simulation | Advanced Emotional Mapping | [Benchmarks](https://github.com/Zierax/Axiom-02) |
 | **Axiom-Dinosaur** | Morphological Mapping | White-Box Biology | [Results](https://github.com/Zierax/Axiom-Dinosaur) |
-| **Axiom-Math** | Logic Invariants | SOTA on NP vs co-NP Frontier | [Benchmarks](https://github.com/Zierax/Axiom-Math) |
+| **Axiom-Math** | Logic Invariants | NP vs co-NP Frontier | [Benchmarks](https://github.com/Zierax/Axiom-Math) |
+| **Axiom-Collatz** | Collatz / Foster-Lyapunov | **0.8338 TCI** (Structural Gap Mapping) | [Benchmarks](https://github.com/Zierax/Axiom-Collatz) |
+
 
 ---
 
