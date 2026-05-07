@@ -56,7 +56,7 @@
 | :--- | :--- | :--- | :--- |
 | [**PTRR v5.0**](https://doi.org/10.5281/zenodo.18873773) | **Nature Journal** Peer Review | Metacognitive AI Audit | Shifting finding profiles from Low to **Critical-Dominant**. |
 | [**PTRR Framework**](https://doi.org/10.5281/zenodo.18873773) | **IEEE AIITA 2026** Accepted | Metacognitive AI Audit | Shifting finding profiles from Low to **Critical-Dominant**. |
-| [**DVF Framework**](https://doi.org/10.5281/zenodo.18751159) | **Neurology Research** Invited | Creativite Arts Perception in AI era| Redefining AI-Vitality via **Structural Activation Potential**. |
+| [**DVF Framework**](https://doi.org/10.5281/zenodo.18751159) | **Neurology Research** / **Philosophy International Journal** Invited | Creativite Arts Perception in AI era| Redefining AI-Vitality via **Structural Activation Potential**. |
 | [**Truthimatics**](https://github.com/Zierax/Truthimatics_Public) | **Theory** | Deterministic Logic | **Proprietary Deterministic Logic Framework.** |
 | **Axiom-Logic** | **Production Phase** | Deterministic Reasoning | **Blackbox Elimination.** Pure logical inference. |
 
