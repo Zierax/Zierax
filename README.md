@@ -37,6 +37,8 @@
 | **Axiom-Dinosaur** | Morphological Mapping | White-Box Biology | [Results](https://github.com/Zierax/Axiom-Dinosaur) |
 | **Axiom-Math** | Logic Invariants | NP vs co-NP Frontier | [Benchmarks](https://github.com/Zierax/Axiom-Math) |
 | **Axiom-Collatz** | Collatz / Foster-Lyapunov | **0.8338 TCI** (Structural Gap Mapping) | [Benchmarks](https://github.com/Zierax/Axiom-Collatz) |
+| **Axiom-Inception** | Turning LLM to deterministic models | Better LLMs | [System Prompt](https://github.com/Zierax/Axiom-Inception) |
+
 
 
 ---
