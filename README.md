@@ -36,6 +36,7 @@
 | **Axiom-02-World** | 1000-Agent Simulation | Real-time Decision Sequencing | [Live Engine](https://axiom-02-world.zs-01117875692.workers.dev/) |
 | **Axiom-02** | Affective Simulation | Advanced Emotional Mapping | [Benchmarks](https://github.com/Zierax/Axiom-02) |
 | **Axiom-Dinosaur** | Morphological Mapping | White-Box Biology | [Results](https://github.com/Zierax/Axiom-Dinosaur) |
+| **Axiom-Bio** | White-Box protein Engine | 0.830 AUROC / ×100,000 faster inference than AF3 | [Results/Benchmarks](https://github.com/Zierax/Axiom-Bio) |
 | **Axiom-Math** | Logic Invariants | NP vs co-NP Frontier | [Benchmarks](https://github.com/Zierax/Axiom-Math) |
 | **Axiom-Collatz** | Collatz / Foster-Lyapunov | **0.8338 TCI** (Structural Gap Mapping) | [Benchmarks](https://github.com/Zierax/Axiom-Collatz) |
 | **Axiom-Inception** | Turning LLM to deterministic models | Better LLMs | [System Prompt](https://github.com/Zierax/Axiom-Inception) |
