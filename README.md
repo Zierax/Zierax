@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Ziad_Salah-A855F7?style=for-the-badge&labelColor=0a0a0f" />
   <img src="https://img.shields.io/badge/UPTIME-17_YEARS-white?style=for-the-badge&labelColor=0a0a0f" />
   <img src="https://img.shields.io/badge/RUNTIME-10_YEARS-white?style=for-the-badge&labelColor=0a0a0f" />
-  <img src="https://img.shields.io/badge/FOCUS-DETERMINISTIC_AI-white?style=for-the-badge&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/TOTAL_WORKING_HOURS-25,000+-white?style=for-the-badge&labelColor=0a0a0f" />
   <img src="https://komarev.com/ghpvc/?username=Zierax&style=for-the-badge&color=A855F7&labelColor=0a0a0f&label=TRAFFIC" alt="Views" />
 </p>
 
