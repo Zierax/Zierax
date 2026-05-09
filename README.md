@@ -13,7 +13,7 @@
 
 ### High-Frequency Logic & Enterprise Engines
 *Core engines optimized for sub-millisecond inference. Zero hallucinations, 100% mathematical auditability.*
-
+![](https://hit.yhype.me/github/profile?account_id=153237520)
 | System | Objective | Performance Metric | Audit |
 | :--- | :--- | :--- | :--- |
 | **Planck-99** | Linux Kernel Malware Audit | **30-73ns** Latency, **96% Acc** | [Benchmarks](https://github.com/Division-36/Planck-99_PublicBenchmarks) |
