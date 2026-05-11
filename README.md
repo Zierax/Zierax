@@ -51,7 +51,7 @@
 * **Axiom-LRM:** Large Reasoning Model architecture.
 * **Corex:** Secure-by-Design deterministic micro-kernel. *(Alpha)*
 * **Ecdysis:** Adversarial ecosystem for deterministic mimicry. *(Stress Tests)*
-* **Axiom-Bio/Turbulence:** High-fidelity logical engines. *(Alpha)*
+* **Axiom-Fluid/Earth2:** High-fidelity logical engines. *(Alpha)*
 
 ---
 
