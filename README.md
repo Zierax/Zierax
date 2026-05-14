@@ -22,6 +22,7 @@
 | **Axiom-Recruit** | White-Box Hiring Audit Engine | Fully Traceable Logic Trail | [Source](https://github.com/Zierax/Axiom-Recruit) |
 | **Axiom-Qsecurity** | Quantum-Kernel SVM | **100% Recall** (Unseen Data) | [Benchmarks](https://github.com/Zierax/Axiom-Qsecurity) |
 | **Axiom-Crypt** | Hybrid PQ Cryptosystem | **0% Collision** (Indistinguishable)| [Benchmarks](https://github.com/Zierax/Axiom-Crypt) |
+| **Rip-tar** | Deterministic Propulsion Logic | **~14-20μs** Latency, **92.7%** Det. Rate | [Benchmarks/test by yourself](https://github.com/Zierax/Riptar) |
 
 ---
 
