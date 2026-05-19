@@ -23,7 +23,7 @@
 | **Axiom-Qsecurity** | Quantum-Kernel SVM | **100% Recall** (Unseen Data) | [Benchmarks](https://github.com/Zierax/Axiom-Qsecurity) |
 | **Axiom-Crypt** | Hybrid PQ Cryptosystem | **0% Collision** (Indistinguishable)| [Benchmarks](https://github.com/Zierax/Axiom-Crypt) |
 | **Rip-tar** | Deterministic Propulsion Logic | **~14-20μs** Latency, **92.7%** Det. Rate | [Benchmarks/test by yourself](https://github.com/Zierax/Riptar) |
-| **AdmitGPT** | Client-side Math Admission Engine | **4500** All time users in 40 Days | [Benchmarks/test by yourself](https://github.com/Zierax/AdmitGPT) |
+| **AdmitGPT** | Client-side Math Admission Engine | **~6000** All time users in 40 Days no marketing| [sourcecode](https://github.com/Zierax/AdmitGPT) |
 
 ---
 
