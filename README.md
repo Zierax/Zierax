@@ -1,8 +1,14 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Ziad_Salah-A855F7?style=for-the-badge&labelColor=0a0a0f" />
-  <img src="https://img.shields.io/badge/UPTIME-17_YEARS-white?style=for-the-badge&labelColor=0a0a0f" />
-  <img src="https://img.shields.io/badge/RUNTIME-10_YEARS-white?style=for-the-badge&labelColor=0a0a0f" />
-  <img src="https://komarev.com/ghpvc/?username=Zierax&style=for-the-badge&color=A855F7&labelColor=0a0a0f&label=TRAFFIC" alt="Views" />
+  <img src="https://img.shields.io/badge/Ziad_Salah-A855F7?style=for-the-badge&labelColor=0a0a0f" alt="Ziad Salah" />
+  <img src="https://img.shields.io/badge/UPTIME-17_YEARS-white?style=for-the-badge&labelColor=0a0a0f" alt="Uptime" />
+  <img src="https://img.shields.io/badge/RUNTIME-10_YEARS-white?style=for-the-badge&labelColor=0a0a0f" alt="Runtime" />
+  <img src="https://komarev.com/ghpvc/?username=Zierax&style=for-the-badge&color=A855F7&labelColor=0a0a0f&label=TRAFFIC" alt="Traffic" />
+  
+  <br />
+  
+  <a href="https://user-badge.committers.top/egypt/Zierax">
+    <img src="https://user-badge.committers.top/egypt/Zierax.svg" alt="Committers.top Ranking" />
+  </a>
 </p>
 
 <h2 align="center">Shifting AI from Probabilistic Guessing to Pure Logical Inference.</h2>
