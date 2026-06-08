@@ -83,12 +83,27 @@
 ---
 
 <p align="center">
-  <b>[ Open for B2B Integration & Institutional R&D Partnerships ]</b><br>
+  <code><b>[ Open for B2B Integration & Institutional R&D Partnerships ]</b></code><br>
   <b><a href="mailto:zs.01117875692@gmail.com">Initiate Technical Validation Call</a></b>
 </p>
 
-<p align="center">
-<a href="https://github.com/Zierax">
-<img height="150" src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=Zierax&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=daf7dc&icon_color=A855F7&bg_color=0a0a0f" alt="Ziad Salah | Stats" />
-</a>
-</p>
+<hr>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/Zierax">
+        <img width="100%" src="https://metrics.lecoq.io/Zierax?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Africa%2FCairo&theme=terminal" alt="Ziad Salah | Deep Metrics" />
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/Zierax">
+        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zierax&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=daf7dc&icon_color=A855F7&bg_color=0a0a0f" alt="Ziad Salah | Stats" />
+      </a>
+      <br><br>
+      <a href="https://github.com/Zierax">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zierax&theme=dark&background=0a0a0f&fire=A855F7&ring=A855F7&currStreakNum=daf7dc&sideNums=daf7dc&sideLabels=daf7dc&currStreakLabel=A855F7&hide_border=true" alt="Ziad Salah | Streak Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
