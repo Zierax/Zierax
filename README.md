@@ -89,6 +89,6 @@
 
 <p align="center">
 <a href="https://github.com/Zierax">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Zierax&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=daf7dc&icon_color=A855F7&bg_color=0a0a0f" alt="Ziad Salah | Stats" />
+<img height="150" src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=Zierax&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=daf7dc&icon_color=A855F7&bg_color=0a0a0f" alt="Ziad Salah | Stats" />
 </a>
 </p>
