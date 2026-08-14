@@ -67,12 +67,19 @@
 | Framework / Paper | Venue / Status | Specialization | Core Impact |
 | :--- | :--- | :--- | :--- |
 | [**PTRR**](https://www.sinoxiv.com/article-detail/611) | **Nature Journal** Scientific Acceptance but Editorial Out of Scope | Metacognitive AI Audit | Shifting finding profiles from Low to **Critical-Dominant**. |
+| [**PTRR**](https://www.sinoxiv.com/article-detail/611) | **Nature AI & Ethics** Under-Review | Metacognitive AI Audit | Shifting finding profiles from Low to **Critical-Dominant**. |
 | [**PTRR Framework**](https://doi.org/10.5281/zenodo.18873773) | **IEEE AIITA 2026** Accepted | Metacognitive AI Audit | Shifting finding profiles from Low to **Critical-Dominant**. |
 | [**DVF Framework**](https://doi.org/10.5281/zenodo.18751159) | **Neurology Research** / **Philosophy International Journal** Invited | Creative Arts Perception in AI era | Redefining AI-Vitality via **Structural Activation Potential**. |
-| [**Earth2 Confirmed Candidate Research**](https://doi.org/10.5281/zenodo.20205968) | **Independent** | TESS light curve analyses Research | Earth2 Candidate exploration via Axiom-Earth2 and Axiom-Zspace. |
+| [**DVF Framework**](https://doi.org/10.5281/zenodo.18751159) | **Nature AI and Society** Under-Review | Creative Arts Perception in AI era | Redefining AI-Vitality via **Structural Activation Potential**. |
+| [**Transparent by Design, Vulnerable by Disclosure:**]() | **EU CRA / planck-99** / **IEEE CNS CPSSec** Accepted | CPS Regulatory | Regional Transforms After recent Compliance Directions in **Cyber Physical Systems**. |
 | [**Logs, Not Logic (EU CRA)**](https://doi.org/10.5281/zenodo.20820849) | **Independent** | Regulatory & Embedded Security | Enforcing **Un-bypassable Compliance** via Tiered Architecture. |
+| [**Axiom-Astrophysics**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7235123) | **Elsevier A&C** Under-Review | white-box Pulsar Analyses | self proofing for Machine learning applications in **Pulsar Analyses** |
+| [**Earth2 Confirmed Candidate Research**](https://doi.org/10.5281/zenodo.20205968) | **Independent** | TESS light curve analyses Research | Earth2 Candidate exploration via Axiom-Earth2 and Axiom-Zspace. |
+| [**Constant Discrepancy in NP vs co-NP**](https://doi.org/10.5281/zenodo.21796746) | **Independent** | NoGo for Lifting in NP vs co-NP | Fp-Linear Gadgets and the Lifting Barrier for **AC0-Frege** Lower Bounds |
+| [**Collatz impossibility via Lyapunov**](https://doi.org/10.5281/zenodo.21909709) | **EU journal of mathematics** Under-Review | NoGo for Collatz via Bounded-Memory | Impossibility of Bounded-Memory **Lyapunov Functions** for **Number-Theoretic** Dynamical Systems |
+| [**Axiom-01: A White-Box Reasoning**](https://doi.org/10.5281/zenodo.20454367) | **Independent** | linguistic rules | Engine for Discovering **Phonosemantic Laws** in **Animal Naming** |
 | [**Truthimatics**](https://github.com/Zierax/Truthimatics_Public) | **Theory** | Deterministic Logic | **Proprietary Deterministic Logic Framework.** |
-| **Axiom-Logic** | **Production Phase** | Deterministic Reasoning | **Blackbox Elimination.** Pure logical inference. |
+
 
 ### Axiom Verification Protocol
 *I don’t expect you to trust "black-box" confidence scores.*
