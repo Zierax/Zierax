@@ -76,7 +76,7 @@
 | [**Axiom-Astrophysics**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7235123) | **Elsevier A&C** Under-Review | white-box Pulsar Analyses | self proofing for Machine learning applications in **Pulsar Analyses** |
 | [**Earth2 Confirmed Candidate Research**](https://doi.org/10.5281/zenodo.20205968) | **Independent** | TESS light curve analyses Research | Earth2 Candidate exploration via Axiom-Earth2 and Axiom-Zspace. |
 | [**Constant Discrepancy in NP vs co-NP**](https://doi.org/10.5281/zenodo.21796746) | **Independent** | NoGo for Lifting in NP vs co-NP | Fp-Linear Gadgets and the Lifting Barrier for **AC0-Frege** Lower Bounds |
-| [**Collatz impossibility via Lyapunov**](https://doi.org/10.5281/zenodo.21909709) | **EU journal of mathematics** Under-Review | NoGo for Collatz via Bounded-Memory | Impossibility of Bounded-Memory **Lyapunov Functions** for **Number-Theoretic** Dynamical Systems |
+| [**Collatz impossibility via Lyapunov**](https://doi.org/10.5281/zenodo.21909709) | **Independent** | NoGo for Collatz via Bounded-Memory | Impossibility of Bounded-Memory **Lyapunov Functions** for **Number-Theoretic** Dynamical Systems |
 | [**Axiom-01: A White-Box Reasoning**](https://doi.org/10.5281/zenodo.20454367) | **Independent** | linguistic rules | Engine for Discovering **Phonosemantic Laws** in **Animal Naming** |
 | [**Truthimatics**](https://github.com/Zierax/Truthimatics_Public) | **Theory** | Deterministic Logic | **Proprietary Deterministic Logic Framework.** |
 
