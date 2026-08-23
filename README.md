@@ -58,7 +58,6 @@
 
 * [**Axiom-LRM:**](https://github.com/Zierax/Axiom-LRM) Logical Reasoning Model architecture.
 * **Corex:** Secure-by-Design deterministic micro-kernel. *(Alpha)*
-* **Ecdysis:** Adversarial ecosystem for deterministic mimicry. *(Stress Tests)*
 * **Axiom-Fluid/Threebody/Z-Jail:** High-fidelity logical engines. *(Alpha)*
 
 ---
