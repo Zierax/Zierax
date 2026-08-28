@@ -11,89 +11,61 @@
   </a>
 </p>
 
+
 <h2 align="center">Shifting AI from Probabilistic Guessing to Pure Logical Inference.</h2>
 <p align="center"><i>"If you possess the core logic of the universe, any traditional code is just a wrapper."</i></p>
 
----
-
-### High-Frequency Logic & Enterprise Engines
-*Core engines optimized for sub-millisecond inference. Zero hallucinations, 100% mathematical auditability.*
-![](https://hit.yhype.me/github/profile?account_id=153237520)
-| System | Objective | Performance Metric | Audit |
-| :--- | :--- | :--- | :--- |
-| **Planck-99** | Linux Kernel Malware Audit | **30-73ns** Latency, **96% Acc** | [Benchmarks](https://github.com/Division-36/Planck-99_PublicBenchmarks) |
-| **Axiom-WAF** | Deterministic Web Firewall | **99.5%** Accuracy (331K Samples) | [Benchmarks](https://github.com/Division-36/AxiomWAF-Brain_PublicBenchmarks) |
-| **SYRTH** | Static Vulnerability Analysis | **4.1K records/s**, **99% Acc** | [Report](https://github.com/Division-36/Syrth_PublicBenchmark) |
-| **Axiom-Recruit** | White-Box Hiring Audit Engine | Fully Traceable Logic Trail | [Source](https://github.com/Zierax/Axiom-Recruit) |
-| **Axiom-Qsecurity** | Quantum-Kernel SVM | **100% Recall** (Unseen Data) | [Benchmarks](https://github.com/Zierax/Axiom-Qsecurity) |
-| **Axiom-Crypt** | Hybrid PQ Cryptosystem | **0% Collision** (Indistinguishable)| [Benchmarks](https://github.com/Zierax/Axiom-Crypt) |
-| **Rip-tar** | Deterministic Propulsion Logic | **~14-20μs** Latency, **92.7%** Det. Rate | [Benchmarks/test by yourself](https://github.com/Zierax/Riptar) |
-| **AdmitGPT** | Client-side Math Admission Engine | **~6000** All time users in 40 Days no marketing| [sourcecode](https://github.com/Zierax/AdmitGPT) |
 
 ---
 
-### Applied Scientific & Cognitive R&D
-*Deterministic physical models for high-fidelity discovery and complex agent simulation.*
 
-| Project | Domain | Milestone | Documentation |
-| :--- | :--- | :--- | :--- |
-| **Axiom-Vesuvius** | Papyrus Recovery | F1 > 94% / Precision > 98.5% | [Benchmarks](https://github.com/Zierax/Axiom-Vesuvius/) |
-| **Axiom-Bio** | White-Box protein Engine | 0.830 AUROC / ×100,000 faster inference than AF3 | [Results/Benchmarks](https://github.com/Zierax/Axiom-Bio) |
-| **Axiom-Zspace** | TESS Signal Deconvolution | +5800 Exoplanet Candidates (ongoing)| [Audit](https://github.com/Zierax/Axiom-Zspace) |
-| **Axiom-Earth2** | TESS Signal Deconvolution | 35 Earth2 Candidates (ongoing)| [Audit](https://github.com/Zierax/Axiom-Earth2) |
-| **Axiom-Astrophysics** | WOW! and Anomaly Space Signal | 87.5% precision & FP 0.006%| [Source Code](https://github.com/Zierax/Axiom-Astrophysics) |
-| **Axiom-02-World** | 1000-Agent Simulation | Real-time Decision Sequencing | [Live Engine](https://axiom-02-world.zs-01117875692.workers.dev/) |
-| **Axiom-02** | Affective Simulation | Advanced Emotional Mapping | [Benchmarks](https://github.com/Zierax/Axiom-02) |
-| **Axiom-Dinosaur** | Morphological Mapping | White-Box Biology | [Results](https://github.com/Zierax/Axiom-Dinosaur) |
-| **Axiom-Math** | Logic Invariants | NP vs co-NP Frontier | [Benchmarks](https://github.com/Zierax/Axiom-Math) |
-| **Axiom-Collatz** | Collatz / Foster-Lyapunov | **0.8338 TCI** (Structural Gap Mapping) | [Benchmarks](https://github.com/Zierax/Axiom-Collatz) |
-| **Axiom-Inception** | Turning LLM to deterministic models | Better LLMs | [System Prompt](https://github.com/Zierax/Axiom-Inception) |
+### Best of What I Did
 
-
+| System | Objective | Performance Metric | Status | Audit |
+| :--- | :--- | :--- | :--- | :--- |
+| **Planck-99** | Linux Kernel Malware Classifier | **37KB · 34ns · 96.28% Acc** (INT8 Quantized RF) | **Production-Ready** | [Benchmarks](https://github.com/Division-36/Planck-99_PublicBenchmarks) |
+| **Z-Jail** | Multi-layer Linux Sandbox | ~81 KiB · 7 Isolation Layers · seccomp-BPF | **Production-Ready** | [Source](https://github.com/Division-36/Z-Jail) |
+| **Z-Privesc** | Linux Privilege Escalation Auditor | 17 Probes · 37/37 Detection · 2.65s | **Production-Ready** | [Source](https://github.com/Division-36/Z-Privesc) |
+| **mcOS** | Safety-Critical RTOS | DO-178C/ISO 26262 · <5μs AI Switch · Zephyr HAL | **Public Release** | [Source](https://github.com/Division-36/mcOS) |
+| **Rip-tar** | Deterministic Propulsion Logic | ~14-20μs Latency · 92.7% Det. Rate | **Research-Phase** | [Source](https://github.com/Zierax/Riptar) |
+| **AdmitGPT** | Client-side Math Admission Engine | ~6000 Users in 40 Days (No Marketing) | **Live** | [Source](https://github.com/Zierax/AdmitGPT) |
 
 ---
 
-### The Axiom Expansion (AGI Frontier)
-*Long-Term R&D Phase: Intelligence is a mathematical law, not a statistical dice roll.*
-
-* [**Axiom-LRM:**](https://github.com/Zierax/Axiom-LRM) Logical Reasoning Model architecture.
-* **Corex:** Secure-by-Design deterministic micro-kernel. *(Alpha)*
-* **Axiom-Fluid/Threebody/Z-Jail:** High-fidelity logical engines. *(Alpha)*
-
----
+### Peer-Reviewed Research & Pre-prints
+*Formal publications, pre-prints, and regulatory submissions. All claims backed by deterministic audit trails.*
 
 
 | Framework / Paper | Venue / Status | Specialization | Core Impact |
 | :--- | :--- | :--- | :--- |
-| [**PTRR**](https://www.sinoxiv.com/article-detail/611) | **Nature Journal** Scientific Acceptance but Editorial Out of Scope | Metacognitive AI Audit | Shifting finding profiles from Low to **Critical-Dominant**. |
-| [**PTRR**](https://www.sinoxiv.com/article-detail/611) | **Nature AI & Ethics** Under-Review | Metacognitive AI Audit | Shifting finding profiles from Low to **Critical-Dominant**. |
-| [**PTRR Framework**](https://doi.org/10.5281/zenodo.18873773) | **IEEE AIITA 2026** Accepted | Metacognitive AI Audit | Shifting finding profiles from Low to **Critical-Dominant**. |
-| [**DVF Framework**](https://doi.org/10.5281/zenodo.18751159) | **Neurology Research** / **Philosophy International Journal** Invited | Creative Arts Perception in AI era | Redefining AI-Vitality via **Structural Activation Potential**. |
-| [**DVF Framework**](https://doi.org/10.5281/zenodo.18751159) | **Nature AI and Society** Under-Review | Creative Arts Perception in AI era | Redefining AI-Vitality via **Structural Activation Potential**. |
-| [**Transparent by Design, Vulnerable by Disclosure:**]() | **EU CRA / planck-99** / **IEEE CNS CPSSec** Accepted | CPS Regulatory | Regional Transforms After recent Compliance Directions in **Cyber Physical Systems**. |
-| [**Logs, Not Logic (EU CRA)**](https://doi.org/10.5281/zenodo.20820849) | **Independent** | Regulatory & Embedded Security | Enforcing **Un-bypassable Compliance** via Tiered Architecture. |
-| [**Axiom-Astrophysics**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7235123) | **Elsevier A&C** Under-Review | white-box Pulsar Analyses | self proofing for Machine learning applications in **Pulsar Analyses** |
-| [**Earth2 Confirmed Candidate Research**](https://doi.org/10.5281/zenodo.20205968) | **Independent** | TESS light curve analyses Research | Earth2 Candidate exploration via Axiom-Earth2 and Axiom-Zspace. |
-| [**Constant Discrepancy in NP vs co-NP**](https://doi.org/10.5281/zenodo.21796746) | **Independent** | NoGo for Lifting in NP vs co-NP | Fp-Linear Gadgets and the Lifting Barrier for **AC0-Frege** Lower Bounds |
-| [**Collatz impossibility via Lyapunov**](https://doi.org/10.5281/zenodo.21909709) | **Independent** | NoGo for Collatz via Bounded-Memory | Impossibility of Bounded-Memory **Lyapunov Functions** for **Number-Theoretic** Dynamical Systems |
-| [**Axiom-01: A White-Box Reasoning**](https://doi.org/10.5281/zenodo.20454367) | **Independent** | linguistic rules | Engine for Discovering **Phonosemantic Laws** in **Animal Naming** |
-| [**Truthimatics**](https://github.com/Zierax/Truthimatics_Public) | **Theory** | Deterministic Logic | **Proprietary Deterministic Logic Framework.** |
+| [**PTRR Framework**](https://doi.org/10.5281/zenodo.18873773) | **IEEE AIITA 2026** **Accepted** | Metacognitive AI Audit | Shifts finding profiles from Low → **Critical-Dominant** |
+| [**PTRR Framework**](https://www.sinoxiv.com/article-detail/611) | **Nature Scientific Reports** Science-Accepted / Editor Out-of-Scope | Metacognitive AI Audit | 4-round peer review passed · editorial rejection |
+| [**Logs, Not Logic (EU CRA)**](https://doi.org/10.5281/zenodo.20820849) | **IEEE CNS CPSSec 2026** **Accepted** | Regulatory & Embedded Security | Un-bypassable compliance via tiered architecture |
+| [**Transparent by Design, Vulnerable by Disclosure**](https://github.com/Division-36/Planck-99_PublicBenchmarks) | **EU CRA / Planck-99 / IEEE CNS CPSSec** Accepted | CPS Regulatory | Regional transforms after compliance directions |
+| [**Axiom-Astrophysics**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7235123) | **Independent** | White-box Pulsar Analyses | 87.5% precision · 0.006% FP (v1.1 validated) |
+| [**Earth2 Candidate Research**](https://doi.org/10.5281/zenodo.20205968) | **Independent** / Zenodo | TESS Light Curve Analysis | 35 Earth2 candidates via Axiom-Earth2/Zspace |
+| [**Constant Discrepancy in NP vs co-NP**](https://doi.org/10.5281/zenodo.21796746) | **Independent** / Zenodo | Fp-Linear Gadgets / AC0-Frege | No-Go for Lifting in NP vs co-NP |
+| [**Axiom-01: White-Box Reasoning**](https://doi.org/10.5281/zenodo.20454367) | **Independent** / Zenodo | Phonosemantic Laws / Animal Naming | Engine for discovering linguistic rules |
+| [**Earth2 Candidate Research**](https://doi.org/10.5281/zenodo.20205968) | **Independent** / Zenodo | TESS Light Curve Analysis | 35 Earth2 candidates via Axiom-Earth2/Zspace |
+| [**Constant Discrepancy in NP vs co-NP**](https://doi.org/10.5281/zenodo.21796746) | **Independent** / Zenodo | AC0-Frege Lower Bounds | Fp-Linear Gadgets / Lifting Barrier |
+| [**Collatz Impossibility via Lyapunov**](https://doi.org/10.5281/zenodo.21909709) | **Independent** / Zenodo | Bounded-Memory Lyapunov | No-Go for number-theoretic dynamical systems |
+| [**Truthimatics v2.0**](https://github.com/Zierax/Truthimatics_Public) | **Theory** / Proprietary Core | Deterministic Logic | Evidence-driven determinism framework |
+| [**DVF Framework**](https://doi.org/10.5281/zenodo.18751159) | **Neurology Research** / **Philosophy Intl Journal** Invited | Creative Arts Perception | Redefining AI-Vitality via Structural Activation Potential |
+| [**DVF Framework**](https://doi.org/10.5281/zenodo.18751159) | **Nature AI and Society** Under-Review | Creative Arts Perception | Structural Activation Potential |
+| [**Truthimatics v2.0**](https://github.com/Zierax/Truthimatics_Public) | **Theory** / Proprietary Core | Deterministic Logic | Evidence-driven determinism framework |
 
 
-### Axiom Verification Protocol
-*I don’t expect you to trust "black-box" confidence scores.*
-
-* **The Proof:** Every core model generates a json proof file as an audit trail. This is a mathematical map of the logic path, allowing for **100% verification** of the decision.
-* **The Playground:** **[Coming Soon]** Test the engine yourself. Upload your data to the [Axiom-Playground] and download the live mathematical audit trail.
-* **Open Source:** Explore the core logic and kernel implementations at my organization @Zierax.
 ---
+
 
 <p align="center">
   <code><b>[ Open for B2B Integration & Institutional R&D Partnerships ]</b></code><br>
   <b><a href="mailto:zs.01117875692@gmail.com">Initiate Technical Validation Call</a></b>
 </p>
 
+
 <hr>
+
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -113,3 +85,22 @@
     </td>
   </tr>
 </table>
+
+
+---
+
+### Quick Navigation
+
+| Organization | Focus | Repositories |
+| :--- | :--- | :--- |
+| **[@Zierax](https://github.com/Zierax)** | Personal Research & Applications | 122 Public Repos · 93 Followers |
+| **[@Division-36](https://github.com/Division-36)** | Production Systems & Benchmarks | 8 Public Repos · Planck-99, Z-Jail, Z-Privesc, Axiom-WAF |
+
+
+---
+
+### Contact
+
+**Technical Validation & Partnerships:** `zs.01117875692@gmail.com`  
+**Portfolio:** [ziad-portfolio-six.vercel.app](https://ziad-portfolio-six.vercel.app/)  
+**ORCID:** [0009-0002-6813-2416](https://orcid.org/0009-0002-6813-2416)  
