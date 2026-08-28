@@ -43,13 +43,11 @@
 | [**Logs, Not Logic (EU CRA)**](https://doi.org/10.5281/zenodo.20820849) | **IEEE CNS CPSSec 2026** **Accepted** | Regulatory & Embedded Security | Un-bypassable compliance via tiered architecture |
 | [**Transparent by Design, Vulnerable by Disclosure**](https://github.com/Division-36/Planck-99_PublicBenchmarks) | **EU CRA / Planck-99 / IEEE CNS CPSSec** Accepted | CPS Regulatory | Regional transforms after compliance directions |
 | [**Axiom-Astrophysics**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7235123) | **Independent** | White-box Pulsar Analyses | 87.5% precision · 0.006% FP (v1.1 validated) |
-| [**Earth2 Candidate Research**](https://doi.org/10.5281/zenodo.20205968) | **Independent** / Zenodo | TESS Light Curve Analysis | 35 Earth2 candidates via Axiom-Earth2/Zspace |
 | [**Constant Discrepancy in NP vs co-NP**](https://doi.org/10.5281/zenodo.21796746) | **Independent** / Zenodo | Fp-Linear Gadgets / AC0-Frege | No-Go for Lifting in NP vs co-NP |
 | [**Axiom-01: White-Box Reasoning**](https://doi.org/10.5281/zenodo.20454367) | **Independent** / Zenodo | Phonosemantic Laws / Animal Naming | Engine for discovering linguistic rules |
 | [**Earth2 Candidate Research**](https://doi.org/10.5281/zenodo.20205968) | **Independent** / Zenodo | TESS Light Curve Analysis | 35 Earth2 candidates via Axiom-Earth2/Zspace |
 | [**Constant Discrepancy in NP vs co-NP**](https://doi.org/10.5281/zenodo.21796746) | **Independent** / Zenodo | AC0-Frege Lower Bounds | Fp-Linear Gadgets / Lifting Barrier |
 | [**Collatz Impossibility via Lyapunov**](https://doi.org/10.5281/zenodo.21909709) | **Independent** / Zenodo | Bounded-Memory Lyapunov | No-Go for number-theoretic dynamical systems |
-| [**Truthimatics v2.0**](https://github.com/Zierax/Truthimatics_Public) | **Theory** / Proprietary Core | Deterministic Logic | Evidence-driven determinism framework |
 | [**DVF Framework**](https://doi.org/10.5281/zenodo.18751159) | **Neurology Research** / **Philosophy Intl Journal** Invited | Creative Arts Perception | Redefining AI-Vitality via Structural Activation Potential |
 | [**DVF Framework**](https://doi.org/10.5281/zenodo.18751159) | **Nature AI and Society** Under-Review | Creative Arts Perception | Structural Activation Potential |
 | [**Truthimatics v2.0**](https://github.com/Zierax/Truthimatics_Public) | **Theory** / Proprietary Core | Deterministic Logic | Evidence-driven determinism framework |
