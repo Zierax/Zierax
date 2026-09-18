@@ -29,6 +29,17 @@
 | **mcOS** | Safety-Critical RTOS | DO-178C/ISO 26262 · <5μs AI Switch · Zephyr HAL | **Public Release** | [Source](https://github.com/Division-36/mcOS) |
 | **Rip-tar** | Deterministic Propulsion Logic | ~14-20μs Latency · 92.7% Det. Rate | **Research-Phase** | [Source](https://github.com/Zierax/Riptar) |
 | **AdmitGPT** | Client-side Math Admission Engine | ~6000 Users in 40 Days (No Marketing) | **Live** | [Source](https://github.com/Zierax/AdmitGPT) |
+| **Axiom-Qsecurity** | Quantum-Inspired Malware Detector | **23KB · 5μs/record · 0.00% FP** | **Research-Phase** | [Source](https://github.com/Zierax/Axiom-Qsecurity) |
+| **Axiom-Vesuvius** | Herculaneum Scroll Fragment Reconstruction | **3 Fragments · 1hr · >94% F1** | **Research-Phase** | [Source](https://github.com/Zierax/Axiom-Vesuvius) |
+| **Axiom-Astrophysics** | White-box Pulsar Signal Integrity Auditor | **87.5% Precision · 0.006% FP** (v1.1) | **Independent Research** | [Source](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7235123) |
+| **Axiom-Bio** | Deterministic Protein Order/Disorder Calibration Engine | **ECE 0.088** (vs. AlphaFold3 pLDDT ECE 0.251) · ~344ms/seq | **Research-Phase** | [Source](https://github.com/Zierax/Axiom-Bio) |
+| **Purce** | Python/NumPy → Self-Contained C99 Semantic Compiler | **91/91 Kernel Coverage · 497 Tests Passed · 814 Files, 0 Errors** | **v1-Prod** | [Source](https://github.com/Zierax/Purce) |
+| **usenix26_artifact** | Non-Idempotency Fault Detector for Linux Isolation Tools | **30-Project Ecosystem Audit · 4 Fault-Injection Scenarios** | **USENIX Security 2027 Submission** | [Source](https://github.com/Zierax/usenix26_artifact) |
+| **NHE-Edge** | Sub-Second Hallucination Suppression for Sub-1B Edge LLMs | **Gemma 3 1B · p<0.001 (hard bench) · Zero Control Breaks** | **Research-Phase** | [Source](https://github.com/Zierax/NHE-Architecture) |
+| **AXIOM-02** | Deterministic Cognitive-Dissonance Simulation Engine | **102 Literary Scenarios · 66.7% Action Fidelity** (vs. 33.3% argmax / 28.4% random) | **Research Instrument** | [Source](https://github.com/Zierax/Axiom-02) |
+| **CIOSA** | Formal Impossibility Bound on Semantic-Understanding Certification | **Game Value = 1/2, Proven & Empirically Validated** (N=4–30, real transformers) | **Published Research** | [Source](https://github.com/Zierax/CIOSA) |
+| **fl-studio-mcp** | MCP Server for Full AI Control of FL Studio | **164 Tools · Full Scripting API Coverage** | **v1.1.1 Public Release** | [Source](https://github.com/Zierax/fl-studio-mcp) |
+| **Taskware Manager** | Offline Linux Malware/Process Monitor | **100% Offline · YARA + ML Syscall Analysis, Real-Time** | **Public Release** | [Source](https://github.com/Zierax/Taskware-manager) |
 
 ---
 
